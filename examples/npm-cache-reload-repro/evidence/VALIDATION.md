@@ -27,7 +27,7 @@ No Vox source, credentials, database, Auth, client SDK, app, Metro, or patched C
 
 Reload enabled: 36/90 concurrent requests failed. Disabling reload: 90/90 concurrent requests and 3/3 serial requests passed. Among the 36 failures were 3 exact EEXIST responses, 6 ENOENT responses, 1 ERR_MODULE_NOT_FOUND, and 26 worker-acquisition timeouts. Do not describe all 36 as extraction errors.
 
-Representative error, retained in `bounded-reload-3/responses.json`:
+Representative error, retained in the `bounded-reload-3` entry of `matrix-1/results.json`:
 
 ```text
 InvalidWorkerCreation: worker boot error: failed to bootstrap runtime: failed to create the graph: Failed caching npm package 'zod@4.4.3'.
