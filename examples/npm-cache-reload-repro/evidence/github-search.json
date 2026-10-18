@@ -1,0 +1,4026 @@
+{
+  "searchedAt": "2026-10-18T07:48:54.209489+00:00",
+  "results": [
+    {
+      "query": "repo:supabase/cli \"failed to unpack\"",
+      "total_count": 0,
+      "incomplete_results": false,
+      "items": []
+    },
+    {
+      "query": "repo:supabase/cli \"File exists\"",
+      "total_count": 107,
+      "incomplete_results": false,
+      "items": [
+        {
+          "number": 2534,
+          "title": "Allow to skip seed even if file exists",
+          "url": "https://github.com/supabase/cli/issues/2534",
+          "state": "closed"
+        },
+        {
+          "number": 6847,
+          "title": "secrets set --env-file prints secret values in its parse error",
+          "url": "https://github.com/supabase/cli/issues/6847",
+          "state": "closed"
+        },
+        {
+          "number": 6466,
+          "title": "test(cli): harden live e2e assertions (CLI-2315)",
+          "url": "https://github.com/supabase/cli/pull/6466",
+          "state": "closed"
+        },
+        {
+          "number": 6192,
+          "title": "fix(cli): persist new migrations on Windows (CLI-2183)",
+          "url": "https://github.com/supabase/cli/pull/6192",
+          "state": "closed"
+        },
+        {
+          "number": 4573,
+          "title": "Allow to skip seed even if file exists",
+          "url": "https://github.com/supabase/cli/issues/4573",
+          "state": "closed"
+        },
+        {
+          "number": 5977,
+          "title": "fix(cli): match Go's init error texts for already-exists and orioledb gate (CLI-1986)",
+          "url": "https://github.com/supabase/cli/pull/5977",
+          "state": "closed"
+        },
+        {
+          "number": 6223,
+          "title": "perf(cli): warm-restore the local database baseline on db reset and fresh start",
+          "url": "https://github.com/supabase/cli/pull/6223",
+          "state": "closed"
+        },
+        {
+          "number": 1190,
+          "title": "Set up Webhooks in the config file",
+          "url": "https://github.com/supabase/cli/issues/1190",
+          "state": "open"
+        },
+        {
+          "number": 6381,
+          "title": "ci(config): add independent release automation for @supabase/config (CLI-2233)",
+          "url": "https://github.com/supabase/cli/pull/6381",
+          "state": "closed"
+        },
+        {
+          "number": 7074,
+          "title": "feat(cli)!: resolve config values as flags > env > config.toml > defaults",
+          "url": "https://github.com/supabase/cli/pull/7074",
+          "state": "closed"
+        },
+        {
+          "number": 6070,
+          "title": "feat(stack): add lazy service lifecycle",
+          "url": "https://github.com/supabase/cli/pull/6070",
+          "state": "closed"
+        },
+        {
+          "number": 6174,
+          "title": "Windows: migration new reports success but creates no file in CLI v2.114.0",
+          "url": "https://github.com/supabase/cli/issues/6174",
+          "state": "closed"
+        },
+        {
+          "number": 5653,
+          "title": "fix: apply import map during GitHub branch Edge Function bundling",
+          "url": "https://github.com/supabase/cli/pull/5653",
+          "state": "closed"
+        },
+        {
+          "number": 6623,
+          "title": "fix(cli): preserve credential and project state failures",
+          "url": "https://github.com/supabase/cli/pull/6623",
+          "state": "closed"
+        },
+        {
+          "number": 6168,
+          "title": "feat(cli): accept branch names and refs in supabase link",
+          "url": "https://github.com/supabase/cli/pull/6168",
+          "state": "closed"
+        },
+        {
+          "number": 6164,
+          "title": "fix(cli): fix functions import-scanner and config-discovery ENOTDIR crashes",
+          "url": "https://github.com/supabase/cli/pull/6164",
+          "state": "closed"
+        },
+        {
+          "number": 6688,
+          "title": "chore(repo): share Effect skill across the monorepo",
+          "url": "https://github.com/supabase/cli/pull/6688",
+          "state": "closed"
+        },
+        {
+          "number": 5190,
+          "title": "fix(ci): force-overwrite pre-existing yarn shim on Windows corepack install",
+          "url": "https://github.com/supabase/cli/pull/5190",
+          "state": "closed"
+        },
+        {
+          "number": 6254,
+          "title": "supabase start: edge runtime fails with \"failed to determine entrypoint\" on 2.115.0 (works on 2.108.0) \u2014 main service single-file bind mount",
+          "url": "https://github.com/supabase/cli/issues/6254",
+          "state": "closed"
+        },
+        {
+          "number": 6160,
+          "title": "fix(cli): align email paths",
+          "url": "https://github.com/supabase/cli/pull/6160",
+          "state": "closed"
+        },
+        {
+          "number": 5840,
+          "title": "fix(cli): validate config before the destructive db reset --local recreate",
+          "url": "https://github.com/supabase/cli/pull/5840",
+          "state": "closed"
+        },
+        {
+          "number": 6232,
+          "title": "fix(stack): detect copied ordinary-folder identities",
+          "url": "https://github.com/supabase/cli/pull/6232",
+          "state": "closed"
+        },
+        {
+          "number": 5118,
+          "title": "fix: remove version comparison check for storage image updates",
+          "url": "https://github.com/supabase/cli/pull/5118",
+          "state": "closed"
+        },
+        {
+          "number": 3467,
+          "title": "Functions which import from parent directory fail to deploy using api flag",
+          "url": "https://github.com/supabase/cli/issues/3467",
+          "state": "closed"
+        },
+        {
+          "number": 3510,
+          "title": "Unclear seeding behavior",
+          "url": "https://github.com/supabase/cli/issues/3510",
+          "state": "closed"
+        },
+        {
+          "number": 7038,
+          "title": "ci(release): add next channel, maintenance lines and guarded promotions (CLI-2630)",
+          "url": "https://github.com/supabase/cli/pull/7038",
+          "state": "closed"
+        },
+        {
+          "number": 6559,
+          "title": "chore(repo): make code comments concise and add a comment policy",
+          "url": "https://github.com/supabase/cli/pull/6559",
+          "state": "closed"
+        },
+        {
+          "number": 6229,
+          "title": "chore: production deploy",
+          "url": "https://github.com/supabase/cli/pull/6229",
+          "state": "closed"
+        },
+        {
+          "number": 5766,
+          "title": "fix(cli): wire --experimental gate into 7 ungated native leaves",
+          "url": "https://github.com/supabase/cli/pull/5766",
+          "state": "closed"
+        },
+        {
+          "number": 6553,
+          "title": "chore(cli): guard error tag identity against silent renames",
+          "url": "https://github.com/supabase/cli/pull/6553",
+          "state": "closed"
+        },
+        {
+          "number": 6171,
+          "title": "feat(stack): isolate sibling worktrees and named stacks (CLI-2107)",
+          "url": "https://github.com/supabase/cli/pull/6171",
+          "state": "closed"
+        },
+        {
+          "number": 3664,
+          "title": "Supabase local start fails: `/init-scripts/99-roles.sql` not found, despite correct placement",
+          "url": "https://github.com/supabase/cli/issues/3664",
+          "state": "closed"
+        },
+        {
+          "number": 6152,
+          "title": "feat(stack): add managed stack persistence",
+          "url": "https://github.com/supabase/cli/pull/6152",
+          "state": "closed"
+        },
+        {
+          "number": 6074,
+          "title": "docs(cli): fix porting-status and SIDE_EFFECTS drift from 2026-07-24 audit (CLI-1967)",
+          "url": "https://github.com/supabase/cli/pull/6074",
+          "state": "closed"
+        },
+        {
+          "number": 4436,
+          "title": "AI Assistant Not Working in Supabase Studio GPT 5, GPT 5 mini",
+          "url": "https://github.com/supabase/cli/issues/4436",
+          "state": "closed"
+        },
+        {
+          "number": 5736,
+          "title": "chore: production deploy",
+          "url": "https://github.com/supabase/cli/pull/5736",
+          "state": "closed"
+        },
+        {
+          "number": 6045,
+          "title": "fix(stack): reserve ports through service startup",
+          "url": "https://github.com/supabase/cli/pull/6045",
+          "state": "closed"
+        },
+        {
+          "number": 6495,
+          "title": "ci(repo): add /ai-dogfood-and-review staging CLI loop into /ai-review",
+          "url": "https://github.com/supabase/cli/pull/6495",
+          "state": "closed"
+        },
+        {
+          "number": 6206,
+          "title": "supabase test db silently reports Files=0, Tests=0 on Linux regardless of path argument",
+          "url": "https://github.com/supabase/cli/issues/6206",
+          "state": "closed"
+        },
+        {
+          "number": 6046,
+          "title": "fix(stack): preserve lazy lifecycle in detached mode",
+          "url": "https://github.com/supabase/cli/pull/6046",
+          "state": "closed"
+        },
+        {
+          "number": 6274,
+          "title": "feat(cli): add schema-first schema and migrations commands",
+          "url": "https://github.com/supabase/cli/pull/6274",
+          "state": "open"
+        },
+        {
+          "number": 6069,
+          "title": "refactor(stack): simplify service artifact resolution",
+          "url": "https://github.com/supabase/cli/pull/6069",
+          "state": "closed"
+        },
+        {
+          "number": 6438,
+          "title": "feat(cli): add config pull command (CLI-2064)",
+          "url": "https://github.com/supabase/cli/pull/6438",
+          "state": "closed"
+        },
+        {
+          "number": 6184,
+          "title": "feat(cli): cache the shadow database baseline as a PGDATA snapshot (CLI-2191)",
+          "url": "https://github.com/supabase/cli/pull/6184",
+          "state": "closed"
+        },
+        {
+          "number": 6009,
+          "title": "chore(cli): apply CLI-1989 parity ruling for db push pipeline-incompatible statements",
+          "url": "https://github.com/supabase/cli/pull/6009",
+          "state": "closed"
+        },
+        {
+          "number": 5974,
+          "title": "fix(cli): use cobra mutual-exclusivity template in sso add",
+          "url": "https://github.com/supabase/cli/pull/5974",
+          "state": "closed"
+        },
+        {
+          "number": 4337,
+          "title": "pg_cron extension not installed from declarative schema.",
+          "url": "https://github.com/supabase/cli/issues/4337",
+          "state": "closed"
+        },
+        {
+          "number": 4492,
+          "title": "PGMQ queue creation fails on preview branch reset: relation \"pgmq.q_my_queue_msg_id_seq\" does not exist",
+          "url": "https://github.com/supabase/cli/issues/4492",
+          "state": "closed"
+        },
+        {
+          "number": 6102,
+          "title": "feat(cli): default database workflows to the bundled pg-delta engine",
+          "url": "https://github.com/supabase/cli/pull/6102",
+          "state": "closed"
+        },
+        {
+          "number": 3352,
+          "title": "`supabase migration squash` removes bucket creation command.",
+          "url": "https://github.com/supabase/cli/issues/3352",
+          "state": "closed"
+        },
+        {
+          "number": 4662,
+          "title": "fix JWK endpoints returning empty keys",
+          "url": "https://github.com/supabase/cli/pull/4662",
+          "state": "closed"
+        },
+        {
+          "number": 7156,
+          "title": "chore(repo): sync develop into next",
+          "url": "https://github.com/supabase/cli/pull/7156",
+          "state": "closed"
+        },
+        {
+          "number": 6709,
+          "title": "perf(stack): copy snapshot directories with one host command",
+          "url": "https://github.com/supabase/cli/pull/6709",
+          "state": "closed"
+        },
+        {
+          "number": 4850,
+          "title": "no longer possible to run a single test file when it includes another",
+          "url": "https://github.com/supabase/cli/issues/4850",
+          "state": "closed"
+        },
+        {
+          "number": 6365,
+          "title": "ci(repo): parallel AI review passes with a Codex adjudicator, no size cap",
+          "url": "https://github.com/supabase/cli/pull/6365",
+          "state": "closed"
+        },
+        {
+          "number": 5522,
+          "title": "feat(cli): port supabase test db and test new",
+          "url": "https://github.com/supabase/cli/pull/5522",
+          "state": "closed"
+        },
+        {
+          "number": 6354,
+          "title": "fix(cli): explain migration transaction requirements",
+          "url": "https://github.com/supabase/cli/pull/6354",
+          "state": "closed"
+        },
+        {
+          "number": 6140,
+          "title": "test(stack): encode managed stack acceptance contract",
+          "url": "https://github.com/supabase/cli/pull/6140",
+          "state": "closed"
+        },
+        {
+          "number": 5579,
+          "title": "feat(cli): port supabase db lint and db advisors to native TypeScript",
+          "url": "https://github.com/supabase/cli/pull/5579",
+          "state": "closed"
+        },
+        {
+          "number": 5671,
+          "title": "feat(cli): port migration commands to native TypeScript (CLI-1312)",
+          "url": "https://github.com/supabase/cli/pull/5671",
+          "state": "closed"
+        },
+        {
+          "number": 4406,
+          "title": "Lovable \u2194 Supabase: migrations re-run due to timestamp mismatch in schema_migrations",
+          "url": "https://github.com/supabase/cli/issues/4406",
+          "state": "closed"
+        },
+        {
+          "number": 6027,
+          "title": "fix(cli): port shadow database provisioning to native TS (CLI-1956)",
+          "url": "https://github.com/supabase/cli/pull/6027",
+          "state": "closed"
+        },
+        {
+          "number": 5775,
+          "title": "chore(cli): define error actionability taxonomy",
+          "url": "https://github.com/supabase/cli/pull/5775",
+          "state": "closed"
+        },
+        {
+          "number": 5586,
+          "title": "feat(cli): port db dump, query, and schema declarative to native TypeScript",
+          "url": "https://github.com/supabase/cli/pull/5586",
+          "state": "closed"
+        },
+        {
+          "number": 6261,
+          "title": "feat(cli): add supabase workers new",
+          "url": "https://github.com/supabase/cli/pull/6261",
+          "state": "closed"
+        },
+        {
+          "number": 4191,
+          "title": "Supabase Storage error running supabase start v2.40.7 `Error: Migration fix-prefix-race-conditions-optimized not found`",
+          "url": "https://github.com/supabase/cli/issues/4191",
+          "state": "closed"
+        },
+        {
+          "number": 4572,
+          "title": "Ltree extension should be in extension or public schema?",
+          "url": "https://github.com/supabase/cli/issues/4572",
+          "state": "closed"
+        },
+        {
+          "number": 6385,
+          "title": "feat(stack): run the complete native service graph",
+          "url": "https://github.com/supabase/cli/pull/6385",
+          "state": "closed"
+        },
+        {
+          "number": 6262,
+          "title": "feat(cli): add supabase workers push",
+          "url": "https://github.com/supabase/cli/pull/6262",
+          "state": "closed"
+        },
+        {
+          "number": 6062,
+          "title": "fix(cli): port db reset --experimental remote schema-files path to native TS (CLI-1958)",
+          "url": "https://github.com/supabase/cli/pull/6062",
+          "state": "closed"
+        },
+        {
+          "number": 6934,
+          "title": "feat(stack): run OrioleDB through db.orioledb_version",
+          "url": "https://github.com/supabase/cli/pull/6934",
+          "state": "closed"
+        },
+        {
+          "number": 3285,
+          "title": "Running \"npx supabase start\" fails when in supabase directory and functions/.env file exists",
+          "url": "https://github.com/supabase/cli/issues/3285",
+          "state": "closed"
+        },
+        {
+          "number": 5847,
+          "title": "feat(cli): port supabase start command to native TypeScript",
+          "url": "https://github.com/supabase/cli/pull/5847",
+          "state": "closed"
+        },
+        {
+          "number": 5651,
+          "title": "feat(cli): port `supabase seed buckets` to native TypeScript",
+          "url": "https://github.com/supabase/cli/pull/5651",
+          "state": "closed"
+        },
+        {
+          "number": 4279,
+          "title": "fix: exclude directories for local migrations",
+          "url": "https://github.com/supabase/cli/pull/4279",
+          "state": "closed"
+        },
+        {
+          "number": 5620,
+          "title": "feat(cli): port db diff and db pull to native TypeScript (CLI-1313)",
+          "url": "https://github.com/supabase/cli/pull/5620",
+          "state": "closed"
+        },
+        {
+          "number": 3099,
+          "title": "Rootless Podman is not supported",
+          "url": "https://github.com/supabase/cli/issues/3099",
+          "state": "closed"
+        },
+        {
+          "number": 5561,
+          "title": "feat(cli): port functions deploy",
+          "url": "https://github.com/supabase/cli/pull/5561",
+          "state": "closed"
+        },
+        {
+          "number": 5819,
+          "title": "feat(stack): add micro stack fleet runtime",
+          "url": "https://github.com/supabase/cli/pull/5819",
+          "state": "closed"
+        },
+        {
+          "number": 151,
+          "title": "function extensions.moddatetime() does not exist for Migrations",
+          "url": "https://github.com/supabase/cli/issues/151",
+          "state": "closed"
+        },
+        {
+          "number": 3758,
+          "title": "GitHub Workflow Failing: extension \"pgaudit\" has no installation script nor update path for version \"1.7\"",
+          "url": "https://github.com/supabase/cli/issues/3758",
+          "state": "closed"
+        },
+        {
+          "number": 2963,
+          "title": "GitHub integration branch functionality broken when using `remotes` with default `auth.email.template.*.content_path` values",
+          "url": "https://github.com/supabase/cli/issues/2963",
+          "state": "closed"
+        },
+        {
+          "number": 3425,
+          "title": "ERROR: cannot drop function storage.get_level(text) because other objects depend on it (SQLSTATE 2BP01)",
+          "url": "https://github.com/supabase/cli/issues/3425",
+          "state": "closed"
+        },
+        {
+          "number": 2728,
+          "title": "feat: track seeded files in migration table",
+          "url": "https://github.com/supabase/cli/pull/2728",
+          "state": "closed"
+        },
+        {
+          "number": 87,
+          "title": "`supabase start` fails when launched inside a container",
+          "url": "https://github.com/supabase/cli/issues/87",
+          "state": "closed"
+        },
+        {
+          "number": 2734,
+          "title": "Release 1.202.4 and later break seed on reset - Windows",
+          "url": "https://github.com/supabase/cli/issues/2734",
+          "state": "closed"
+        },
+        {
+          "number": 2319,
+          "title": "chore: suggest init force when config exists",
+          "url": "https://github.com/supabase/cli/pull/2319",
+          "state": "closed"
+        },
+        {
+          "number": 3095,
+          "title": "chore(deps): bump github.com/containers/common from 0.61.1 to 0.62.0",
+          "url": "https://github.com/supabase/cli/pull/3095",
+          "state": "closed"
+        },
+        {
+          "number": 2408,
+          "title": "fix: only write version file if supabase directory exists",
+          "url": "https://github.com/supabase/cli/pull/2408",
+          "state": "closed"
+        },
+        {
+          "number": 3416,
+          "title": "Error while migrating schema storage locally (cannot drop function storage.get_level(text) because other objects depend on it)",
+          "url": "https://github.com/supabase/cli/issues/3416",
+          "state": "closed"
+        },
+        {
+          "number": 2411,
+          "title": "Prod deploy",
+          "url": "https://github.com/supabase/cli/pull/2411",
+          "state": "closed"
+        },
+        {
+          "number": 2960,
+          "title": "chore(deps): bump github.com/docker/docker from 27.3.1+incompatible to 27.4.0+incompatible",
+          "url": "https://github.com/supabase/cli/pull/2960",
+          "state": "closed"
+        },
+        {
+          "number": 2342,
+          "title": "`ERROR: extension \"pg_cron\" must be installed in schema \"pg_catalog\"` After `1.169.8` Upgrade",
+          "url": "https://github.com/supabase/cli/issues/2342",
+          "state": "closed"
+        },
+        {
+          "number": 2088,
+          "title": "Diff command fails because pg_jsonschema is not enabled on shadow db",
+          "url": "https://github.com/supabase/cli/issues/2088",
+          "state": "closed"
+        },
+        {
+          "number": 2750,
+          "title": "Function declared in a migration file does not exist when seeding",
+          "url": "https://github.com/supabase/cli/issues/2750",
+          "state": "closed"
+        },
+        {
+          "number": 1176,
+          "title": "edge-runtime crashes in local development and cannot be restarted",
+          "url": "https://github.com/supabase/cli/issues/1176",
+          "state": "closed"
+        },
+        {
+          "number": 1038,
+          "title": "feat: add vscode template on supabase init",
+          "url": "https://github.com/supabase/cli/pull/1038",
+          "state": "closed"
+        },
+        {
+          "number": 1607,
+          "title": "Improve debuggability of database tests (show more test output)",
+          "url": "https://github.com/supabase/cli/issues/1607",
+          "state": "closed"
+        },
+        {
+          "number": 347,
+          "title": "fix: init exits 0 when config file exists",
+          "url": "https://github.com/supabase/cli/pull/347",
+          "state": "closed"
+        },
+        {
+          "number": 1530,
+          "title": "Difficulty installing the cli on windows",
+          "url": "https://github.com/supabase/cli/issues/1530",
+          "state": "closed"
+        }
+      ]
+    },
+    {
+      "query": "repo:supabase/cli \"noModuleCache\"",
+      "total_count": 2,
+      "incomplete_results": false,
+      "items": [
+        {
+          "number": 6555,
+          "title": "test(stack): make tests read as focused scenarios",
+          "url": "https://github.com/supabase/cli/pull/6555",
+          "state": "closed"
+        },
+        {
+          "number": 6675,
+          "title": "functions serve: intermittent HTTP 500 `WorkerAlreadyRetired` \u2014 bootstrap should retry like edge-runtime's reference main service",
+          "url": "https://github.com/supabase/cli/issues/6675",
+          "state": "closed"
+        }
+      ]
+    },
+    {
+      "query": "repo:supabase/cli \"npm\" \"cache\"",
+      "total_count": 184,
+      "incomplete_results": false,
+      "items": [
+        {
+          "number": 6973,
+          "title": "fix(local-development): migra cache volume survives stop --no-backup",
+          "url": "https://github.com/supabase/cli/issues/6973",
+          "state": "closed"
+        },
+        {
+          "number": 6396,
+          "title": "fix(deps): bump the npm-major group across 1 directory with 13 updates",
+          "url": "https://github.com/supabase/cli/pull/6396",
+          "state": "closed"
+        },
+        {
+          "number": 6415,
+          "title": "fix(deps): bump the npm-major group across 1 directory with 16 updates",
+          "url": "https://github.com/supabase/cli/pull/6415",
+          "state": "closed"
+        },
+        {
+          "number": 6388,
+          "title": "fix(deps): bump the npm-major group across 1 directory with 14 updates",
+          "url": "https://github.com/supabase/cli/pull/6388",
+          "state": "closed"
+        },
+        {
+          "number": 6398,
+          "title": "fix(deps): bump the npm-major group across 1 directory with 15 updates",
+          "url": "https://github.com/supabase/cli/pull/6398",
+          "state": "closed"
+        },
+        {
+          "number": 6325,
+          "title": "chore(deps-dev): bump verdaccio from 6.9.3 to 6.10.0 in the npm-major group across 1 directory",
+          "url": "https://github.com/supabase/cli/pull/6325",
+          "state": "closed"
+        },
+        {
+          "number": 6430,
+          "title": "fix(deps): bump the npm-major group across 1 directory with 28 updates",
+          "url": "https://github.com/supabase/cli/pull/6430",
+          "state": "closed"
+        },
+        {
+          "number": 6426,
+          "title": "fix(deps): bump the npm-major group across 1 directory with 27 updates",
+          "url": "https://github.com/supabase/cli/pull/6426",
+          "state": "closed"
+        },
+        {
+          "number": 6421,
+          "title": "fix(deps): bump the npm-major group across 1 directory with 25 updates",
+          "url": "https://github.com/supabase/cli/pull/6421",
+          "state": "closed"
+        },
+        {
+          "number": 6291,
+          "title": "fix(deps): bump the npm-major group across 1 directory with 6 updates",
+          "url": "https://github.com/supabase/cli/pull/6291",
+          "state": "closed"
+        },
+        {
+          "number": 6333,
+          "title": "fix(deps): bump the npm-major group across 1 directory with 9 updates",
+          "url": "https://github.com/supabase/cli/pull/6333",
+          "state": "closed"
+        },
+        {
+          "number": 6340,
+          "title": "fix(deps): bump the npm-major group across 1 directory with 10 updates",
+          "url": "https://github.com/supabase/cli/pull/6340",
+          "state": "closed"
+        },
+        {
+          "number": 6963,
+          "title": "stack: orphan sweep cannot remove database-helper containers after the stack directory is deleted",
+          "url": "https://github.com/supabase/cli/issues/6963",
+          "state": "closed"
+        },
+        {
+          "number": 6355,
+          "title": "fix(deps): bump the npm-major group across 1 directory with 11 updates",
+          "url": "https://github.com/supabase/cli/pull/6355",
+          "state": "closed"
+        },
+        {
+          "number": 6351,
+          "title": "fix(deps): bump the npm-major group across 1 directory with 10 updates",
+          "url": "https://github.com/supabase/cli/pull/6351",
+          "state": "closed"
+        },
+        {
+          "number": 6364,
+          "title": "fix(deps): bump the npm-major group across 1 directory with 12 updates",
+          "url": "https://github.com/supabase/cli/pull/6364",
+          "state": "closed"
+        },
+        {
+          "number": 6278,
+          "title": "fix(deps): bump the npm-major group with 7 updates",
+          "url": "https://github.com/supabase/cli/pull/6278",
+          "state": "closed"
+        },
+        {
+          "number": 5735,
+          "title": "Edge functions deployment failure in Supabase CLI new version",
+          "url": "https://github.com/supabase/cli/issues/5735",
+          "state": "closed"
+        },
+        {
+          "number": 6319,
+          "title": "chore(deps-dev): bump the npm-major group with 4 updates",
+          "url": "https://github.com/supabase/cli/pull/6319",
+          "state": "closed"
+        },
+        {
+          "number": 6034,
+          "title": "chore(deps): bump the npm-major group across 1 directory with 19 updates",
+          "url": "https://github.com/supabase/cli/pull/6034",
+          "state": "closed"
+        },
+        {
+          "number": 6029,
+          "title": "chore(deps): bump the npm-major group across 1 directory with 23 updates",
+          "url": "https://github.com/supabase/cli/pull/6029",
+          "state": "closed"
+        },
+        {
+          "number": 6025,
+          "title": "chore(deps): bump the npm-major group across 1 directory with 22 updates",
+          "url": "https://github.com/supabase/cli/pull/6025",
+          "state": "closed"
+        },
+        {
+          "number": 5985,
+          "title": "fix(deps): bump the npm-major group with 14 updates",
+          "url": "https://github.com/supabase/cli/pull/5985",
+          "state": "closed"
+        },
+        {
+          "number": 6658,
+          "title": "feat(cli): support `exclude` patterns for compute build context",
+          "url": "https://github.com/supabase/cli/pull/6658",
+          "state": "closed"
+        },
+        {
+          "number": 6055,
+          "title": "chore(deps): bump the npm-major group across 1 directory with 27 updates",
+          "url": "https://github.com/supabase/cli/pull/6055",
+          "state": "closed"
+        },
+        {
+          "number": 6487,
+          "title": "feat(cli): make the bundled pg-delta engine the only pg-delta implementation",
+          "url": "https://github.com/supabase/cli/pull/6487",
+          "state": "closed"
+        },
+        {
+          "number": 6015,
+          "title": "chore(deps): bump the npm-major group across 1 directory with 22 updates",
+          "url": "https://github.com/supabase/cli/pull/6015",
+          "state": "closed"
+        },
+        {
+          "number": 6321,
+          "title": "chore: production deploy",
+          "url": "https://github.com/supabase/cli/pull/6321",
+          "state": "closed"
+        },
+        {
+          "number": 5991,
+          "title": "fix(deps): bump the npm-major group across 1 directory with 18 updates",
+          "url": "https://github.com/supabase/cli/pull/5991",
+          "state": "closed"
+        },
+        {
+          "number": 5996,
+          "title": "fix(deps): bump the npm-major group across 1 directory with 21 updates",
+          "url": "https://github.com/supabase/cli/pull/5996",
+          "state": "closed"
+        },
+        {
+          "number": 6243,
+          "title": "fix(deps): bump the npm-major group across 1 directory with 32 updates",
+          "url": "https://github.com/supabase/cli/pull/6243",
+          "state": "closed"
+        },
+        {
+          "number": 6227,
+          "title": "fix(deps): bump the npm-major group across 1 directory with 30 updates",
+          "url": "https://github.com/supabase/cli/pull/6227",
+          "state": "closed"
+        },
+        {
+          "number": 6143,
+          "title": "feat(cli): suppress update notifier (CLI-1922)",
+          "url": "https://github.com/supabase/cli/pull/6143",
+          "state": "closed"
+        },
+        {
+          "number": 6217,
+          "title": "fix(deps): bump the npm-major group across 1 directory with 32 updates",
+          "url": "https://github.com/supabase/cli/pull/6217",
+          "state": "closed"
+        },
+        {
+          "number": 6147,
+          "title": "fix(deps): bump the npm-major group across 1 directory with 19 updates",
+          "url": "https://github.com/supabase/cli/pull/6147",
+          "state": "closed"
+        },
+        {
+          "number": 5214,
+          "title": "Add a way to configure cache directory",
+          "url": "https://github.com/supabase/cli/issues/5214",
+          "state": "closed"
+        },
+        {
+          "number": 6208,
+          "title": "chore(deps): bump the npm-major group across 1 directory with 29 updates",
+          "url": "https://github.com/supabase/cli/pull/6208",
+          "state": "closed"
+        },
+        {
+          "number": 6479,
+          "title": "supabase start: vector container segfaults on native arm64 (Apple Silicon), execve EFAULT loading vector:0.53.0-alpine",
+          "url": "https://github.com/supabase/cli/issues/6479",
+          "state": "closed"
+        },
+        {
+          "number": 6188,
+          "title": "fix(deps): bump the npm-major group across 1 directory with 28 updates",
+          "url": "https://github.com/supabase/cli/pull/6188",
+          "state": "closed"
+        },
+        {
+          "number": 6183,
+          "title": "fix(deps): bump the npm-major group across 1 directory with 27 updates",
+          "url": "https://github.com/supabase/cli/pull/6183",
+          "state": "closed"
+        },
+        {
+          "number": 6453,
+          "title": "declarative sync: \"permission denied for table schema_migrations\" when the shadow's Realtime sidecar creates _realtime.* before the data-statement probe (2.116.0)",
+          "url": "https://github.com/supabase/cli/issues/6453",
+          "state": "closed"
+        },
+        {
+          "number": 6135,
+          "title": "chore(deps): bump the npm-major group across 1 directory with 14 updates",
+          "url": "https://github.com/supabase/cli/pull/6135",
+          "state": "closed"
+        },
+        {
+          "number": 6178,
+          "title": "fix(deps): bump the npm-major group across 1 directory with 21 updates",
+          "url": "https://github.com/supabase/cli/pull/6178",
+          "state": "closed"
+        },
+        {
+          "number": 6165,
+          "title": "fix(deps): bump the npm-major group across 1 directory with 22 updates",
+          "url": "https://github.com/supabase/cli/pull/6165",
+          "state": "closed"
+        },
+        {
+          "number": 6129,
+          "title": "chore(deps): bump the npm-major group across 1 directory with 13 updates",
+          "url": "https://github.com/supabase/cli/pull/6129",
+          "state": "closed"
+        },
+        {
+          "number": 6114,
+          "title": "docs(release): notes for v2.112.0",
+          "url": "https://github.com/supabase/cli/pull/6114",
+          "state": "closed"
+        },
+        {
+          "number": 6154,
+          "title": "chore(deps): bump the npm-major group across 1 directory with 21 updates",
+          "url": "https://github.com/supabase/cli/pull/6154",
+          "state": "closed"
+        },
+        {
+          "number": 6327,
+          "title": "ci: shard package-local test suites",
+          "url": "https://github.com/supabase/cli/pull/6327",
+          "state": "closed"
+        },
+        {
+          "number": 5550,
+          "title": "ci: replace artifact handoffs with cache",
+          "url": "https://github.com/supabase/cli/pull/5550",
+          "state": "closed"
+        },
+        {
+          "number": 6416,
+          "title": "chore: production deploy",
+          "url": "https://github.com/supabase/cli/pull/6416",
+          "state": "closed"
+        },
+        {
+          "number": 6121,
+          "title": "fix(deps): bump the npm-major group across 1 directory with 12 updates",
+          "url": "https://github.com/supabase/cli/pull/6121",
+          "state": "closed"
+        },
+        {
+          "number": 6345,
+          "title": "feat(cli): inject function slug into served functions",
+          "url": "https://github.com/supabase/cli/pull/6345",
+          "state": "closed"
+        },
+        {
+          "number": 5900,
+          "title": "chore(deps): bump the npm-major group with 10 updates",
+          "url": "https://github.com/supabase/cli/pull/5900",
+          "state": "closed"
+        },
+        {
+          "number": 5964,
+          "title": "chore(deps): bump the npm-major group across 1 directory with 23 updates",
+          "url": "https://github.com/supabase/cli/pull/5964",
+          "state": "closed"
+        },
+        {
+          "number": 5740,
+          "title": "ci: migrate build artifact handoff from cache to artifacts",
+          "url": "https://github.com/supabase/cli/pull/5740",
+          "state": "closed"
+        },
+        {
+          "number": 5915,
+          "title": "chore(deps): bump the npm-major group across 1 directory with 14 updates",
+          "url": "https://github.com/supabase/cli/pull/5915",
+          "state": "closed"
+        },
+        {
+          "number": 5823,
+          "title": "fix(deps): bump the npm-major group with 6 updates",
+          "url": "https://github.com/supabase/cli/pull/5823",
+          "state": "closed"
+        },
+        {
+          "number": 6822,
+          "title": "feat(cli): drive gen types languages from the @supabase/typegen registry (SDK-1956)",
+          "url": "https://github.com/supabase/cli/pull/6822",
+          "state": "closed"
+        },
+        {
+          "number": 6021,
+          "title": "fix(cli): route bootstrap's db push step to native TS db push (CLI-1953)",
+          "url": "https://github.com/supabase/cli/pull/6021",
+          "state": "closed"
+        },
+        {
+          "number": 6104,
+          "title": "[bug] functions deploy fails at bundling with 'An error occurred in Effect.tryPromise' (2.111.0, Windows); --use-api works",
+          "url": "https://github.com/supabase/cli/issues/6104",
+          "state": "closed"
+        },
+        {
+          "number": 6315,
+          "title": "refactor(config): split entrypoints into pure default, /io and /effect (CLI-2231)",
+          "url": "https://github.com/supabase/cli/pull/6315",
+          "state": "closed"
+        },
+        {
+          "number": 6391,
+          "title": "feat(cli)!: make pg-delta the default diff engine everywhere",
+          "url": "https://github.com/supabase/cli/pull/6391",
+          "state": "closed"
+        },
+        {
+          "number": 6050,
+          "title": "chore(deps): bump undici from 8.8.0 to 8.9.0",
+          "url": "https://github.com/supabase/cli/pull/6050",
+          "state": "closed"
+        },
+        {
+          "number": 5689,
+          "title": "ci(release): add targeted job timeouts",
+          "url": "https://github.com/supabase/cli/pull/5689",
+          "state": "closed"
+        },
+        {
+          "number": 5878,
+          "title": "chore(deps): bump the npm-major group across 1 directory with 18 updates",
+          "url": "https://github.com/supabase/cli/pull/5878",
+          "state": "closed"
+        },
+        {
+          "number": 4933,
+          "title": "fix(functions): forward NPM_AUTH_TOKEN to deploy bundler container",
+          "url": "https://github.com/supabase/cli/pull/4933",
+          "state": "closed"
+        },
+        {
+          "number": 6554,
+          "title": "feat(cli): replace experimental workers with gated compute commands",
+          "url": "https://github.com/supabase/cli/pull/6554",
+          "state": "closed"
+        },
+        {
+          "number": 5560,
+          "title": "feat(functions): add hybrid JWT verification to TS edge runtime",
+          "url": "https://github.com/supabase/cli/pull/5560",
+          "state": "closed"
+        },
+        {
+          "number": 4927,
+          "title": "`functions deploy` fails to read `.npmrc` environment variables for private npm registry auth (workspace `deno.json`)",
+          "url": "https://github.com/supabase/cli/issues/4927",
+          "state": "closed"
+        },
+        {
+          "number": 5734,
+          "title": "chore(ci): bump the actions-major group with 4 updates",
+          "url": "https://github.com/supabase/cli/pull/5734",
+          "state": "closed"
+        },
+        {
+          "number": 5812,
+          "title": "chore: production deploy",
+          "url": "https://github.com/supabase/cli/pull/5812",
+          "state": "closed"
+        },
+        {
+          "number": 6102,
+          "title": "feat(cli): default database workflows to the bundled pg-delta engine",
+          "url": "https://github.com/supabase/cli/pull/6102",
+          "state": "closed"
+        },
+        {
+          "number": 5518,
+          "title": "fix(deps): bump the npm-major group with 16 updates",
+          "url": "https://github.com/supabase/cli/pull/5518",
+          "state": "closed"
+        },
+        {
+          "number": 5573,
+          "title": "fix(deps): bump the npm-major group with 6 updates",
+          "url": "https://github.com/supabase/cli/pull/5573",
+          "state": "closed"
+        },
+        {
+          "number": 2786,
+          "title": "Failed npm install due to postinstall.js",
+          "url": "https://github.com/supabase/cli/issues/2786",
+          "state": "closed"
+        },
+        {
+          "number": 5657,
+          "title": "chore: production deploy",
+          "url": "https://github.com/supabase/cli/pull/5657",
+          "state": "closed"
+        },
+        {
+          "number": 5670,
+          "title": "chore(deps): bump nx from 22.7.5 to 23.0.0 in the npm-major group across 1 directory",
+          "url": "https://github.com/supabase/cli/pull/5670",
+          "state": "closed"
+        },
+        {
+          "number": 5604,
+          "title": "ci: derive brew/scoop checksums from the published build",
+          "url": "https://github.com/supabase/cli/pull/5604",
+          "state": "closed"
+        },
+        {
+          "number": 1769,
+          "title": "Supabase fails to build after it installs on yarn 4",
+          "url": "https://github.com/supabase/cli/issues/1769",
+          "state": "closed"
+        },
+        {
+          "number": 6506,
+          "title": "feat(cli): add experimental stack start",
+          "url": "https://github.com/supabase/cli/pull/6506",
+          "state": "closed"
+        },
+        {
+          "number": 5952,
+          "title": "Supabase cannot start",
+          "url": "https://github.com/supabase/cli/issues/5952",
+          "state": "closed"
+        },
+        {
+          "number": 5503,
+          "title": "fix(deps): bump the npm-major group across 1 directory with 9 updates",
+          "url": "https://github.com/supabase/cli/pull/5503",
+          "state": "closed"
+        },
+        {
+          "number": 5954,
+          "title": "chore(ci): bump useblacksmith/checkout from c9796daa2a4bdebdab5bd16be2c09a70cd4e1121 to 6fd481652155169ed4d2f25ebaf97464f685175f in the actions-major group",
+          "url": "https://github.com/supabase/cli/pull/5954",
+          "state": "closed"
+        },
+        {
+          "number": 5567,
+          "title": "chore: production deploy",
+          "url": "https://github.com/supabase/cli/pull/5567",
+          "state": "closed"
+        },
+        {
+          "number": 6062,
+          "title": "fix(cli): port db reset --experimental remote schema-files path to native TS (CLI-1958)",
+          "url": "https://github.com/supabase/cli/pull/6062",
+          "state": "closed"
+        },
+        {
+          "number": 5213,
+          "title": "fix(deps): bump the npm-major group across 1 directory with 27 updates",
+          "url": "https://github.com/supabase/cli/pull/5213",
+          "state": "closed"
+        },
+        {
+          "number": 1217,
+          "title": "Prefer using a platform package over postinstalls",
+          "url": "https://github.com/supabase/cli/issues/1217",
+          "state": "closed"
+        },
+        {
+          "number": 5221,
+          "title": "fix(deps): bump the npm-major group across 1 directory with 28 updates",
+          "url": "https://github.com/supabase/cli/pull/5221",
+          "state": "closed"
+        },
+        {
+          "number": 5207,
+          "title": "fix(cli): make npm publish idempotent for partial-failure re-runs",
+          "url": "https://github.com/supabase/cli/pull/5207",
+          "state": "closed"
+        },
+        {
+          "number": 6262,
+          "title": "feat(cli): add supabase workers push",
+          "url": "https://github.com/supabase/cli/pull/6262",
+          "state": "closed"
+        },
+        {
+          "number": 5874,
+          "title": "chore: production deploy",
+          "url": "https://github.com/supabase/cli/pull/5874",
+          "state": "closed"
+        },
+        {
+          "number": 3265,
+          "title": "Supabase CLI starts the containers but then does Stopping containers... resulting in broken: malformed HTTP response",
+          "url": "https://github.com/supabase/cli/issues/3265",
+          "state": "closed"
+        },
+        {
+          "number": 6133,
+          "title": "chore(ci): bump the actions-major group with 2 updates",
+          "url": "https://github.com/supabase/cli/pull/6133",
+          "state": "closed"
+        },
+        {
+          "number": 5761,
+          "title": "chore(dev/onboarding): set up `mise`-based workflow for initial codebase setup",
+          "url": "https://github.com/supabase/cli/pull/5761",
+          "state": "closed"
+        },
+        {
+          "number": 5556,
+          "title": "Getting SIGKILL error",
+          "url": "https://github.com/supabase/cli/issues/5556",
+          "state": "closed"
+        },
+        {
+          "number": 5194,
+          "title": "fix(deps): bump the npm-major group across 1 directory with 26 updates",
+          "url": "https://github.com/supabase/cli/pull/5194",
+          "state": "closed"
+        },
+        {
+          "number": 5354,
+          "title": "chore(deps): bump the npm-major group across 1 directory with 24 updates",
+          "url": "https://github.com/supabase/cli/pull/5354",
+          "state": "closed"
+        },
+        {
+          "number": 5347,
+          "title": "chore(deps): bump the npm-major group across 1 directory with 23 updates",
+          "url": "https://github.com/supabase/cli/pull/5347",
+          "state": "closed"
+        },
+        {
+          "number": 5178,
+          "title": "fix(deps): bump the npm-major group across 1 directory with 23 updates",
+          "url": "https://github.com/supabase/cli/pull/5178",
+          "state": "closed"
+        },
+        {
+          "number": 5193,
+          "title": "fix(deps): bump the npm-major group across 1 directory with 25 updates",
+          "url": "https://github.com/supabase/cli/pull/5193",
+          "state": "closed"
+        }
+      ]
+    },
+    {
+      "query": "repo:supabase/edge-runtime \"failed to unpack\"",
+      "total_count": 0,
+      "incomplete_results": false,
+      "items": []
+    },
+    {
+      "query": "repo:supabase/edge-runtime \"File exists\"",
+      "total_count": 5,
+      "incomplete_results": false,
+      "items": [
+        {
+          "number": 729,
+          "title": "fix(fs): tolerate concurrent creation of tests/.env in build script",
+          "url": "https://github.com/supabase/edge-runtime/pull/729",
+          "state": "closed"
+        },
+        {
+          "number": 728,
+          "title": "`crates/fs` build script panics when a concurrent build creates `tests/.env` first",
+          "url": "https://github.com/supabase/edge-runtime/issues/728",
+          "state": "closed"
+        },
+        {
+          "number": 730,
+          "title": "fix(fs): eliminate check-then-create race on tests/.env in build script",
+          "url": "https://github.com/supabase/edge-runtime/pull/730",
+          "state": "closed"
+        },
+        {
+          "number": 206,
+          "title": "Local Edge functions: event loop error after a few minutes",
+          "url": "https://github.com/supabase/edge-runtime/issues/206",
+          "state": "closed"
+        },
+        {
+          "number": 271,
+          "title": "feat: WebSocket upgrade support",
+          "url": "https://github.com/supabase/edge-runtime/pull/271",
+          "state": "closed"
+        }
+      ]
+    },
+    {
+      "query": "repo:supabase/edge-runtime \"noModuleCache\"",
+      "total_count": 7,
+      "incomplete_results": false,
+      "items": [
+        {
+          "number": 742,
+          "title": "UserWorker.fetch never settles when a request with a body is rejected before dispatch (WorkerAlreadyRetired)",
+          "url": "https://github.com/supabase/edge-runtime/issues/742",
+          "state": "open"
+        },
+        {
+          "number": 621,
+          "title": "Import map not being applied to user workers",
+          "url": "https://github.com/supabase/edge-runtime/issues/621",
+          "state": "closed"
+        },
+        {
+          "number": 359,
+          "title": "self-hosted function (fcm messages as offical guides ) not working because of cpu hard limit",
+          "url": "https://github.com/supabase/edge-runtime/issues/359",
+          "state": "closed"
+        },
+        {
+          "number": 341,
+          "title": "fix: make `EmitterFactory` respect `allow_remote_modules` option when determining `no npm` mode",
+          "url": "https://github.com/supabase/edge-runtime/pull/341",
+          "state": "closed"
+        },
+        {
+          "number": 340,
+          "title": "Set allowRemoteModules=false can not prevent load remote npm packages with \"npm:\" specifier",
+          "url": "https://github.com/supabase/edge-runtime/issues/340",
+          "state": "closed"
+        },
+        {
+          "number": 232,
+          "title": "feat: supervisor needs to track lifetime of requests to perform early termination of worker",
+          "url": "https://github.com/supabase/edge-runtime/pull/232",
+          "state": "closed"
+        },
+        {
+          "number": 80,
+          "title": "Channel is closed because worker has previously died",
+          "url": "https://github.com/supabase/edge-runtime/issues/80",
+          "state": "closed"
+        }
+      ]
+    },
+    {
+      "query": "repo:supabase/edge-runtime \"npm\" \"cache\"",
+      "total_count": 14,
+      "incomplete_results": false,
+      "items": [
+        {
+          "number": 750,
+          "title": "crypto.X509Certificate toString/raw still throw ERR_NOT_IMPLEMENTED on 1.77.0, breaking @apple/app-store-server-library (follow-up to #480)",
+          "url": "https://github.com/supabase/edge-runtime/issues/750",
+          "state": "open"
+        },
+        {
+          "number": 741,
+          "title": "Custom header \"x-auth-user\" intermittently arrives replaced with an unrelated (account-identifying) value on external inbound requests",
+          "url": "https://github.com/supabase/edge-runtime/issues/741",
+          "state": "open"
+        },
+        {
+          "number": 746,
+          "title": "Cold-cache bundle intermittently SIGBUS in SQLite after duplicate cache initialization",
+          "url": "https://github.com/supabase/edge-runtime/issues/746",
+          "state": "closed"
+        },
+        {
+          "number": 719,
+          "title": "Retired user workers are not fully reclaimed \u2014 RSS grows ~2.5 MiB per retirement with activeUserWorkersCount: 0 (v1.74.3, policy = oneshot)",
+          "url": "https://github.com/supabase/edge-runtime/issues/719",
+          "state": "open"
+        },
+        {
+          "number": 553,
+          "title": "Using cache.put returns \"Web Cache is not available in this context.\"",
+          "url": "https://github.com/supabase/edge-runtime/issues/553",
+          "state": "closed"
+        },
+        {
+          "number": 410,
+          "title": "InvalidWorkerCreation: worker boot error: failed to create the graph",
+          "url": "https://github.com/supabase/edge-runtime/issues/410",
+          "state": "closed"
+        },
+        {
+          "number": 263,
+          "title": "FunctionsFetchError: Failed to send a request to the Edge Function - effecting 1% of invocations",
+          "url": "https://github.com/supabase/edge-runtime/issues/263",
+          "state": "closed"
+        },
+        {
+          "number": 634,
+          "title": "fix: not caching type definition in some edge case",
+          "url": "https://github.com/supabase/edge-runtime/pull/634",
+          "state": "closed"
+        },
+        {
+          "number": 149,
+          "title": "Self-hosted edge functions - Error when importing shared local files",
+          "url": "https://github.com/supabase/edge-runtime/issues/149",
+          "state": "closed"
+        },
+        {
+          "number": 436,
+          "title": "feat: exposing onnx backend to JS land",
+          "url": "https://github.com/supabase/edge-runtime/pull/436",
+          "state": "closed"
+        },
+        {
+          "number": 373,
+          "title": "fix(node): refer the internal rid correctly",
+          "url": "https://github.com/supabase/edge-runtime/pull/373",
+          "state": "closed"
+        },
+        {
+          "number": 297,
+          "title": "ReferenceError: Status is not defined when using Hocuspocus NPM package",
+          "url": "https://github.com/supabase/edge-runtime/issues/297",
+          "state": "closed"
+        },
+        {
+          "number": 241,
+          "title": "feat: introduce various supervisor policy",
+          "url": "https://github.com/supabase/edge-runtime/pull/241",
+          "state": "closed"
+        },
+        {
+          "number": 82,
+          "title": "Edge runtime v1.2.18 fails to import firebase-admin with `Identifier '__f$' has already been declared`",
+          "url": "https://github.com/supabase/edge-runtime/issues/82",
+          "state": "closed"
+        }
+      ]
+    },
+    {
+      "query": "repo:denoland/deno \"failed to unpack\"",
+      "total_count": 4,
+      "incomplete_results": false,
+      "items": [
+        {
+          "number": 21339,
+          "title": "Deno has panicked when running `deno upgrade`",
+          "url": "https://github.com/denoland/deno/issues/21339",
+          "state": "closed"
+        },
+        {
+          "number": 27988,
+          "title": "Runtime download of compile assets (`denort-x86_64-unknown-linux-gnu.zip`) fails",
+          "url": "https://github.com/denoland/deno/issues/27988",
+          "state": "closed"
+        },
+        {
+          "number": 25703,
+          "title": "`deno upgrade` results in error: Failed to unpack archive",
+          "url": "https://github.com/denoland/deno/issues/25703",
+          "state": "closed"
+        },
+        {
+          "number": 22983,
+          "title": "windows tar doesn't exist",
+          "url": "https://github.com/denoland/deno/issues/22983",
+          "state": "closed"
+        }
+      ]
+    },
+    {
+      "query": "repo:denoland/deno \"File exists\"",
+      "total_count": 244,
+      "incomplete_results": false,
+      "items": [
+        {
+          "number": 36446,
+          "title": "after awaiting Deno.writeTextFile, file does not exist (yet)",
+          "url": "https://github.com/denoland/deno/issues/36446",
+          "state": "open"
+        },
+        {
+          "number": 36534,
+          "title": "`deno check --unstable-raw-imports --all` fails with css import",
+          "url": "https://github.com/denoland/deno/issues/36534",
+          "state": "open"
+        },
+        {
+          "number": 31218,
+          "title": "deno dlopen fails to open an embedded library in windows",
+          "url": "https://github.com/denoland/deno/issues/31218",
+          "state": "open"
+        },
+        {
+          "number": 36640,
+          "title": "deno lsp: wrong type resolution with workspaces enabled",
+          "url": "https://github.com/denoland/deno/issues/36640",
+          "state": "open"
+        },
+        {
+          "number": 26876,
+          "title": "deno compile: npm package node-red seems to not work",
+          "url": "https://github.com/denoland/deno/issues/26876",
+          "state": "open"
+        },
+        {
+          "number": 25603,
+          "title": "deno cache results in different number of npm modules cached with/without lock file",
+          "url": "https://github.com/denoland/deno/issues/25603",
+          "state": "open"
+        },
+        {
+          "number": 12943,
+          "title": "FFI: Loading libraries as dependencies/URLs",
+          "url": "https://github.com/denoland/deno/issues/12943",
+          "state": "open"
+        },
+        {
+          "number": 22982,
+          "title": "Intercept requests originated from deno server",
+          "url": "https://github.com/denoland/deno/issues/22982",
+          "state": "open"
+        },
+        {
+          "number": 33405,
+          "title": "writeFileSync: Error: EEXIST: file already exists",
+          "url": "https://github.com/denoland/deno/issues/33405",
+          "state": "closed"
+        },
+        {
+          "number": 28353,
+          "title": "compiled exe considers modules as JS if imported with full path",
+          "url": "https://github.com/denoland/deno/issues/28353",
+          "state": "open"
+        },
+        {
+          "number": 22661,
+          "title": "Allow to create SBOM Reports of a Project",
+          "url": "https://github.com/denoland/deno/issues/22661",
+          "state": "open"
+        },
+        {
+          "number": 14281,
+          "title": "`deno test --coverage` only includes files for which tests exist",
+          "url": "https://github.com/denoland/deno/issues/14281",
+          "state": "open"
+        },
+        {
+          "number": 35818,
+          "title": "fix(compile): match --exclude paths against canonical walked paths",
+          "url": "https://github.com/denoland/deno/pull/35818",
+          "state": "open"
+        },
+        {
+          "number": 30723,
+          "title": "Unexpected error symlinking node_modules: Cannot create a file when that file already exists. (os error 183)",
+          "url": "https://github.com/denoland/deno/issues/30723",
+          "state": "closed"
+        },
+        {
+          "number": 34718,
+          "title": "fix(ext/fs): error when copyFile source and destination are the same file",
+          "url": "https://github.com/denoland/deno/pull/34718",
+          "state": "closed"
+        },
+        {
+          "number": 16912,
+          "title": "[NPM Specifiers] Allow Loading Assets from npm packages via Deno File APIs",
+          "url": "https://github.com/denoland/deno/issues/16912",
+          "state": "closed"
+        },
+        {
+          "number": 25027,
+          "title": "`Deno has panicked` via `task` command and `package.json` starting version `1.45.3`",
+          "url": "https://github.com/denoland/deno/issues/25027",
+          "state": "closed"
+        },
+        {
+          "number": 33033,
+          "title": "deno doc command failed to resolve npm package",
+          "url": "https://github.com/denoland/deno/issues/33033",
+          "state": "closed"
+        },
+        {
+          "number": 34659,
+          "title": "fix(install): handle pre-existing node_modules symlink on Windows",
+          "url": "https://github.com/denoland/deno/pull/34659",
+          "state": "closed"
+        },
+        {
+          "number": 33180,
+          "title": "`deno check` ignores JSX compilerOptions from `deno.json` when a `tsconfig.json` is present",
+          "url": "https://github.com/denoland/deno/issues/33180",
+          "state": "closed"
+        },
+        {
+          "number": 35116,
+          "title": "JSR version exists by direct URL but Deno cannot resolve it due to stale package meta.json",
+          "url": "https://github.com/denoland/deno/issues/35116",
+          "state": "closed"
+        },
+        {
+          "number": 35281,
+          "title": "Bug: deno run uses ~900MB RSS on startup when minimumDependencyAge is enabled",
+          "url": "https://github.com/denoland/deno/issues/35281",
+          "state": "closed"
+        },
+        {
+          "number": 30944,
+          "title": "import map: fallback arrays?",
+          "url": "https://github.com/denoland/deno/issues/30944",
+          "state": "closed"
+        },
+        {
+          "number": 35503,
+          "title": "Deno fails to import package with unicode characters in path",
+          "url": "https://github.com/denoland/deno/issues/35503",
+          "state": "closed"
+        },
+        {
+          "number": 34605,
+          "title": "fix(task): run `node -e`/`-p` and `node --require` scripts through Deno",
+          "url": "https://github.com/denoland/deno/pull/34605",
+          "state": "open"
+        },
+        {
+          "number": 32349,
+          "title": "investigate regression in a few websocket wpt tests",
+          "url": "https://github.com/denoland/deno/issues/32349",
+          "state": "open"
+        },
+        {
+          "number": 35267,
+          "title": "fix(desktop): correct libdenort unpack path with non-executable extension",
+          "url": "https://github.com/denoland/deno/pull/35267",
+          "state": "closed"
+        },
+        {
+          "number": 29015,
+          "title": "deno compile panics when output executable is empty",
+          "url": "https://github.com/denoland/deno/issues/29015",
+          "state": "closed"
+        },
+        {
+          "number": 34426,
+          "title": "Add check.exclude option for deno check CLI command",
+          "url": "https://github.com/denoland/deno/issues/34426",
+          "state": "closed"
+        },
+        {
+          "number": 32854,
+          "title": "fix: resolve local file when folder name matches import-mapped package",
+          "url": "https://github.com/denoland/deno/pull/32854",
+          "state": "closed"
+        },
+        {
+          "number": 35354,
+          "title": "fix(coverage): merge coverage for modules loaded with different hash/search params",
+          "url": "https://github.com/denoland/deno/pull/35354",
+          "state": "closed"
+        },
+        {
+          "number": 34396,
+          "title": "Deno produces uncatcheable errors in `node:fs` `watch`",
+          "url": "https://github.com/denoland/deno/issues/34396",
+          "state": "closed"
+        },
+        {
+          "number": 33254,
+          "title": "node:fs `writeFileSync` throws `EEXIST` error when overwriting an existing file (Windows)",
+          "url": "https://github.com/denoland/deno/issues/33254",
+          "state": "closed"
+        },
+        {
+          "number": 32877,
+          "title": "Fix deno publish to fallback to jsr.json when deno.json is missing fields",
+          "url": "https://github.com/denoland/deno/pull/32877",
+          "state": "closed"
+        },
+        {
+          "number": 26257,
+          "title": "[Bug] fs.exists, Deno.readTextFile, Deno.writeTextFile Fail to Work on Memory Disk",
+          "url": "https://github.com/denoland/deno/issues/26257",
+          "state": "closed"
+        },
+        {
+          "number": 20738,
+          "title": "Support Tauri",
+          "url": "https://github.com/denoland/deno/issues/20738",
+          "state": "closed"
+        },
+        {
+          "number": 28508,
+          "title": "Deno panic with jupyter",
+          "url": "https://github.com/denoland/deno/issues/28508",
+          "state": "closed"
+        },
+        {
+          "number": 17222,
+          "title": "deno run - Uncaught PermissionDenied: Permission denied (os error 13) #5816",
+          "url": "https://github.com/denoland/deno/issues/17222",
+          "state": "closed"
+        },
+        {
+          "number": 34858,
+          "title": "fix(lsp): evict on-disk documents from cache when deleted or changed",
+          "url": "https://github.com/denoland/deno/pull/34858",
+          "state": "closed"
+        },
+        {
+          "number": 19900,
+          "title": "DENO_AUTH_TOKENS does not authenticate against npm.pkg.github.com",
+          "url": "https://github.com/denoland/deno/issues/19900",
+          "state": "closed"
+        },
+        {
+          "number": 33733,
+          "title": "feat(ext/node): implement module.registerHooks() API for CommonJS",
+          "url": "https://github.com/denoland/deno/pull/33733",
+          "state": "closed"
+        },
+        {
+          "number": 26306,
+          "title": "Deno is not able to resolve npm workspace dependency types",
+          "url": "https://github.com/denoland/deno/issues/26306",
+          "state": "closed"
+        },
+        {
+          "number": 33164,
+          "title": "feat: framework detection for deno compile",
+          "url": "https://github.com/denoland/deno/pull/33164",
+          "state": "closed"
+        },
+        {
+          "number": 32607,
+          "title": "fix(npm): create shims for all bin entries during global npm install",
+          "url": "https://github.com/denoland/deno/pull/32607",
+          "state": "closed"
+        },
+        {
+          "number": 29190,
+          "title": "Bug: `JSX.IntrinsicElements` not found",
+          "url": "https://github.com/denoland/deno/issues/29190",
+          "state": "closed"
+        },
+        {
+          "number": 32260,
+          "title": "ci: restrict token permissions in pull_request_target title workflow",
+          "url": "https://github.com/denoland/deno/pull/32260",
+          "state": "closed"
+        },
+        {
+          "number": 31837,
+          "title": "Running a script in a sub directory fails when folder name is same as package name",
+          "url": "https://github.com/denoland/deno/issues/31837",
+          "state": "closed"
+        },
+        {
+          "number": 32240,
+          "title": "`--force` does not work properly with `deno install --compile`",
+          "url": "https://github.com/denoland/deno/issues/32240",
+          "state": "closed"
+        },
+        {
+          "number": 27336,
+          "title": "suggestion lies about existing argument",
+          "url": "https://github.com/denoland/deno/issues/27336",
+          "state": "closed"
+        },
+        {
+          "number": 35734,
+          "title": "npm package re-sync writes through hardlinks created by lifecycle scripts, corrupting esbuild's platform binary",
+          "url": "https://github.com/denoland/deno/issues/35734",
+          "state": "closed"
+        },
+        {
+          "number": 30560,
+          "title": "`deno check` ignores ambient declarations when imported css file exists",
+          "url": "https://github.com/denoland/deno/issues/30560",
+          "state": "closed"
+        },
+        {
+          "number": 29004,
+          "title": "`@testing-library/svelte/vite` borked when inside Deno workspace",
+          "url": "https://github.com/denoland/deno/issues/29004",
+          "state": "closed"
+        },
+        {
+          "number": 34244,
+          "title": "fix(ext/node): do not throw NotFound for fs.exists",
+          "url": "https://github.com/denoland/deno/pull/34244",
+          "state": "closed"
+        },
+        {
+          "number": 20989,
+          "title": "test runner runs a test multiple times",
+          "url": "https://github.com/denoland/deno/issues/20989",
+          "state": "closed"
+        },
+        {
+          "number": 36570,
+          "title": "napi_get_typedarray_info panics on a Float16Array (entered unreachable code)",
+          "url": "https://github.com/denoland/deno/issues/36570",
+          "state": "closed"
+        },
+        {
+          "number": 32632,
+          "title": "fix(npm): handle read-only bin files when setting up node_modules/.bin",
+          "url": "https://github.com/denoland/deno/pull/32632",
+          "state": "closed"
+        },
+        {
+          "number": 31564,
+          "title": "fix: source map file names to non-existent paths",
+          "url": "https://github.com/denoland/deno/pull/31564",
+          "state": "closed"
+        },
+        {
+          "number": 28721,
+          "title": "error: Setting permissions",
+          "url": "https://github.com/denoland/deno/issues/28721",
+          "state": "closed"
+        },
+        {
+          "number": 18992,
+          "title": "fix(core): always report the first error on unhandled rejection",
+          "url": "https://github.com/denoland/deno/pull/18992",
+          "state": "closed"
+        },
+        {
+          "number": 19587,
+          "title": "TypeError: invalid boundary key and TypeError: cursor out of bounds",
+          "url": "https://github.com/denoland/deno/issues/19587",
+          "state": "closed"
+        },
+        {
+          "number": 34492,
+          "title": "fix(jupyter): use stable PATH entry for kernel binary path",
+          "url": "https://github.com/denoland/deno/pull/34492",
+          "state": "closed"
+        },
+        {
+          "number": 35027,
+          "title": "fix(ext/node): propagate nextLoad(newUrl) redirect to default loader",
+          "url": "https://github.com/denoland/deno/pull/35027",
+          "state": "closed"
+        },
+        {
+          "number": 31763,
+          "title": "Add an option to dump/save permissions from interactive prompt to a file",
+          "url": "https://github.com/denoland/deno/issues/31763",
+          "state": "closed"
+        },
+        {
+          "number": 31582,
+          "title": "feat(runtime): support ignore option in Deno.watchFs",
+          "url": "https://github.com/denoland/deno/pull/31582",
+          "state": "closed"
+        },
+        {
+          "number": 32455,
+          "title": "fix(lsp): properly sync root files with tsgo",
+          "url": "https://github.com/denoland/deno/pull/32455",
+          "state": "closed"
+        },
+        {
+          "number": 31861,
+          "title": "deno uninstall does not remove the deno.json file",
+          "url": "https://github.com/denoland/deno/issues/31861",
+          "state": "closed"
+        },
+        {
+          "number": 34511,
+          "title": "fix(config): warn instead of erroring when workspace member dir is missing",
+          "url": "https://github.com/denoland/deno/pull/34511",
+          "state": "closed"
+        },
+        {
+          "number": 36113,
+          "title": "fix(ext/node): don't leave 0-byte .heapsnapshot files near the heap limit",
+          "url": "https://github.com/denoland/deno/pull/36113",
+          "state": "closed"
+        },
+        {
+          "number": 33765,
+          "title": "fix(pack): address round-4 review \u2014 determinism + safety",
+          "url": "https://github.com/denoland/deno/pull/33765",
+          "state": "closed"
+        },
+        {
+          "number": 36006,
+          "title": "fix(desktop): keep dots in the app name when resolving the runtime library",
+          "url": "https://github.com/denoland/deno/pull/36006",
+          "state": "closed"
+        },
+        {
+          "number": 33413,
+          "title": "fix(ext/node): fix EEXIST error and data loss in writeFileSync on Windows",
+          "url": "https://github.com/denoland/deno/pull/33413",
+          "state": "closed"
+        },
+        {
+          "number": 31337,
+          "title": "test(integration): add tests for standalone arguments handling",
+          "url": "https://github.com/denoland/deno/pull/31337",
+          "state": "closed"
+        },
+        {
+          "number": 31563,
+          "title": "ci: attempt to improve test stability",
+          "url": "https://github.com/denoland/deno/pull/31563",
+          "state": "closed"
+        },
+        {
+          "number": 31551,
+          "title": "fix(x): fix executing native binary on windows + some cleanup",
+          "url": "https://github.com/denoland/deno/pull/31551",
+          "state": "closed"
+        },
+        {
+          "number": 31619,
+          "title": "fix(x): cache on demand when running, resolve packages with only one binary, don't fail on node-gyp if not present",
+          "url": "https://github.com/denoland/deno/pull/31619",
+          "state": "closed"
+        },
+        {
+          "number": 32059,
+          "title": "chore: make approve_scripts tests less flaky",
+          "url": "https://github.com/denoland/deno/pull/32059",
+          "state": "closed"
+        },
+        {
+          "number": 31601,
+          "title": "tests: update sourcemap tests for npm-only source existence check",
+          "url": "https://github.com/denoland/deno/pull/31601",
+          "state": "closed"
+        },
+        {
+          "number": 30860,
+          "title": "Deno.openKv throws NotFound error when DB file does not exist if run with -A",
+          "url": "https://github.com/denoland/deno/issues/30860",
+          "state": "closed"
+        },
+        {
+          "number": 32909,
+          "title": "feat: implement `deno audit --fix`",
+          "url": "https://github.com/denoland/deno/pull/32909",
+          "state": "closed"
+        },
+        {
+          "number": 29847,
+          "title": "deno install permission denied formatjs",
+          "url": "https://github.com/denoland/deno/issues/29847",
+          "state": "closed"
+        },
+        {
+          "number": 27494,
+          "title": "node:fs - cpSync doesn't respect options",
+          "url": "https://github.com/denoland/deno/issues/27494",
+          "state": "closed"
+        },
+        {
+          "number": 32350,
+          "title": "Change in precedence when loading an environment variable present in multiple .env files",
+          "url": "https://github.com/denoland/deno/issues/32350",
+          "state": "closed"
+        },
+        {
+          "number": 30254,
+          "title": "`node.fsOpenSync(\"./existing-file\", \"wx\")` throws `EEXISTS` error that's missing the \"code\" property",
+          "url": "https://github.com/denoland/deno/issues/30254",
+          "state": "closed"
+        },
+        {
+          "number": 31855,
+          "title": "fix(publish): include `npm:@types/` package resolution in published packages",
+          "url": "https://github.com/denoland/deno/pull/31855",
+          "state": "closed"
+        },
+        {
+          "number": 31327,
+          "title": "feat(lint): plugin API has env and read access",
+          "url": "https://github.com/denoland/deno/pull/31327",
+          "state": "closed"
+        },
+        {
+          "number": 31561,
+          "title": "refactor: merge `deno_webidl` into `deno_web`",
+          "url": "https://github.com/denoland/deno/pull/31561",
+          "state": "closed"
+        },
+        {
+          "number": 29928,
+          "title": "feat(run): resolve main module with workspace resolver",
+          "url": "https://github.com/denoland/deno/pull/29928",
+          "state": "closed"
+        },
+        {
+          "number": 20099,
+          "title": "Prisma CLI: `error: Uncaught ReferenceError: module is not defined`",
+          "url": "https://github.com/denoland/deno/issues/20099",
+          "state": "closed"
+        },
+        {
+          "number": 30847,
+          "title": "Deno Test: TypeScript Type Check - Cache Issue",
+          "url": "https://github.com/denoland/deno/issues/30847",
+          "state": "closed"
+        },
+        {
+          "number": 32687,
+          "title": "perf(ext/node): move `fs.cpSync` implementation to rust",
+          "url": "https://github.com/denoland/deno/pull/32687",
+          "state": "closed"
+        },
+        {
+          "number": 31594,
+          "title": "chore: fix spec tests not checking test result",
+          "url": "https://github.com/denoland/deno/pull/31594",
+          "state": "closed"
+        },
+        {
+          "number": 30555,
+          "title": "fix(ext/node): fs.symlink and fs.symlinkSync compatibility",
+          "url": "https://github.com/denoland/deno/pull/30555",
+          "state": "closed"
+        },
+        {
+          "number": 31478,
+          "title": "fix(tsgo): do not error out on non js/ts imports from npm packages",
+          "url": "https://github.com/denoland/deno/pull/31478",
+          "state": "closed"
+        },
+        {
+          "number": 4357,
+          "title": "chmod doesn't work on Windows",
+          "url": "https://github.com/denoland/deno/issues/4357",
+          "state": "closed"
+        },
+        {
+          "number": 24132,
+          "title": "Analyzable dynamic import created before being imported throws \"Module not found\"",
+          "url": "https://github.com/denoland/deno/issues/24132",
+          "state": "closed"
+        },
+        {
+          "number": 31138,
+          "title": "feat: add `deno x` (alias `dx`) for conveniently running binaries from packages",
+          "url": "https://github.com/denoland/deno/pull/31138",
+          "state": "closed"
+        },
+        {
+          "number": 31344,
+          "title": "web app",
+          "url": "https://github.com/denoland/deno/issues/31344",
+          "state": "closed"
+        },
+        {
+          "number": 33815,
+          "title": "feat(test): add timeout option to Deno.test()",
+          "url": "https://github.com/denoland/deno/pull/33815",
+          "state": "closed"
+        },
+        {
+          "number": 20950,
+          "title": "Bug: Deno compiled app crashes on npm:@fastify/swagger",
+          "url": "https://github.com/denoland/deno/issues/20950",
+          "state": "closed"
+        },
+        {
+          "number": 31502,
+          "title": "feat: include `@types/node` type declarations out of the box",
+          "url": "https://github.com/denoland/deno/pull/31502",
+          "state": "closed"
+        }
+      ]
+    },
+    {
+      "query": "repo:denoland/deno \"noModuleCache\"",
+      "total_count": 0,
+      "incomplete_results": false,
+      "items": []
+    },
+    {
+      "query": "repo:denoland/deno \"npm\" \"cache\"",
+      "total_count": 1160,
+      "incomplete_results": false,
+      "items": [
+        {
+          "number": 37022,
+          "title": "npm dedup drops a required dependency edge in a retained peer-only package",
+          "url": "https://github.com/denoland/deno/issues/37022",
+          "state": "open"
+        },
+        {
+          "number": 36815,
+          "title": "fix(task): skip implicit npm install for --cached-only tasks",
+          "url": "https://github.com/denoland/deno/pull/36815",
+          "state": "open"
+        },
+        {
+          "number": 35589,
+          "title": "feat(npm): side-effects cache for npm build scripts",
+          "url": "https://github.com/denoland/deno/pull/35589",
+          "state": "open"
+        },
+        {
+          "number": 36834,
+          "title": "deno x npm:pagefind seemingly fails silently (doesn't spawn child process?)",
+          "url": "https://github.com/denoland/deno/issues/36834",
+          "state": "open"
+        },
+        {
+          "number": 36469,
+          "title": "fix(npm): validate package names used in cache paths",
+          "url": "https://github.com/denoland/deno/pull/36469",
+          "state": "open"
+        },
+        {
+          "number": 37002,
+          "title": "fix(npm): honor compatible automatic peer requirements",
+          "url": "https://github.com/denoland/deno/pull/37002",
+          "state": "open"
+        },
+        {
+          "number": 36184,
+          "title": "flaky: specs::npm::pkg_json_imports::compile fails copying npm-compat cache file (No such file or directory)",
+          "url": "https://github.com/denoland/deno/issues/36184",
+          "state": "open"
+        },
+        {
+          "number": 33370,
+          "title": "`jsr:` specifiers are not installed into `node_modules` (unlike `npm:`)",
+          "url": "https://github.com/denoland/deno/issues/33370",
+          "state": "open"
+        },
+        {
+          "number": 36090,
+          "title": "deno check <files>: explicit-file checks drop generated npm project references",
+          "url": "https://github.com/denoland/deno/issues/36090",
+          "state": "open"
+        },
+        {
+          "number": 36700,
+          "title": "The type of the default export of some npm packages are incorrect since 2.9",
+          "url": "https://github.com/denoland/deno/issues/36700",
+          "state": "open"
+        },
+        {
+          "number": 31926,
+          "title": "error: Could not find npm package '@my-private-registry/my-package' matching '<VERSION>'.",
+          "url": "https://github.com/denoland/deno/issues/31926",
+          "state": "open"
+        },
+        {
+          "number": 28999,
+          "title": "`deno task` downloads npm packages to global cache",
+          "url": "https://github.com/denoland/deno/issues/28999",
+          "state": "open"
+        },
+        {
+          "number": 31810,
+          "title": "deno LSP tries to import from cache (again)",
+          "url": "https://github.com/denoland/deno/issues/31810",
+          "state": "open"
+        },
+        {
+          "number": 36134,
+          "title": "fix(npm): keep BYONM resolution within its root",
+          "url": "https://github.com/denoland/deno/pull/36134",
+          "state": "open"
+        },
+        {
+          "number": 32932,
+          "title": "feat(cli): add DENO_CACHE_MAX_SIZE env var for automatic cache trimming",
+          "url": "https://github.com/denoland/deno/pull/32932",
+          "state": "open"
+        },
+        {
+          "number": 35854,
+          "title": "feat(npm): add global virtual store",
+          "url": "https://github.com/denoland/deno/pull/35854",
+          "state": "open"
+        },
+        {
+          "number": 35217,
+          "title": "fix(npm): skip etag on forced packument reload",
+          "url": "https://github.com/denoland/deno/pull/35217",
+          "state": "open"
+        },
+        {
+          "number": 28144,
+          "title": "Add deno cache --cached-only",
+          "url": "https://github.com/denoland/deno/issues/28144",
+          "state": "open"
+        },
+        {
+          "number": 36103,
+          "title": "fix(npm): validate node_modules link names",
+          "url": "https://github.com/denoland/deno/pull/36103",
+          "state": "open"
+        },
+        {
+          "number": 36992,
+          "title": "npm peer resolution during deno run --no-config installs a version outside the declared peer range for a remote module's graph",
+          "url": "https://github.com/denoland/deno/issues/36992",
+          "state": "open"
+        },
+        {
+          "number": 36641,
+          "title": "perf(ext/fs): cache the cwd, invalidate on chdir",
+          "url": "https://github.com/denoland/deno/pull/36641",
+          "state": "open"
+        },
+        {
+          "number": 36479,
+          "title": "fix(npm): validate unresolved paths across registry symlinks",
+          "url": "https://github.com/denoland/deno/pull/36479",
+          "state": "open"
+        },
+        {
+          "number": 36179,
+          "title": "fix(check): resolve npm type-reference directives without node_modules",
+          "url": "https://github.com/denoland/deno/pull/36179",
+          "state": "open"
+        },
+        {
+          "number": 36294,
+          "title": "Importing `npm:gltf-pipeline` causes rollup to fail when the cwd is changed",
+          "url": "https://github.com/denoland/deno/issues/36294",
+          "state": "open"
+        },
+        {
+          "number": 36771,
+          "title": "Compiled binary from workspace project misclassifies ESM npm packages when TMPDIR has ancestor package.json with type commonjs",
+          "url": "https://github.com/denoland/deno/issues/36771",
+          "state": "open"
+        },
+        {
+          "number": 35459,
+          "title": "fix: bundled npm compile output naming",
+          "url": "https://github.com/denoland/deno/pull/35459",
+          "state": "open"
+        },
+        {
+          "number": 34386,
+          "title": "feat(install): support installing npm packages from tarballs",
+          "url": "https://github.com/denoland/deno/pull/34386",
+          "state": "open"
+        },
+        {
+          "number": 25603,
+          "title": "deno cache results in different number of npm modules cached with/without lock file",
+          "url": "https://github.com/denoland/deno/issues/25603",
+          "state": "open"
+        },
+        {
+          "number": 27937,
+          "title": "Venderoing npm deps should copy files instead of hardlink",
+          "url": "https://github.com/denoland/deno/issues/27937",
+          "state": "open"
+        },
+        {
+          "number": 16164,
+          "title": "Support for install scripts (ex. \"postinstall\") for \"npm:\" specifiers with global node modules",
+          "url": "https://github.com/denoland/deno/issues/16164",
+          "state": "open"
+        },
+        {
+          "number": 36094,
+          "title": "Un-fork Deno's TypeScript libs: enable skipLibCheck:false + npm-publishable @types/deno",
+          "url": "https://github.com/denoland/deno/issues/36094",
+          "state": "open"
+        },
+        {
+          "number": 36724,
+          "title": "feat(bundle): make --quiet flag functional in deno bundle (again)",
+          "url": "https://github.com/denoland/deno/issues/36724",
+          "state": "open"
+        },
+        {
+          "number": 32026,
+          "title": "Using JSR in NPM packages results in duplicate dependencies in Deno",
+          "url": "https://github.com/denoland/deno/issues/32026",
+          "state": "open"
+        },
+        {
+          "number": 35247,
+          "title": "feat(npm): support diff-based dependency patching (patchedDependencies)",
+          "url": "https://github.com/denoland/deno/pull/35247",
+          "state": "open"
+        },
+        {
+          "number": 34793,
+          "title": "`deno run --no-remote` ignores vendored JSR/npm manifests (tries remote fetch despite vendor/.../meta.json existing)",
+          "url": "https://github.com/denoland/deno/issues/34793",
+          "state": "open"
+        },
+        {
+          "number": 36355,
+          "title": "fix(cache): avoid local vendor path collisions",
+          "url": "https://github.com/denoland/deno/pull/36355",
+          "state": "open"
+        },
+        {
+          "number": 35984,
+          "title": "feat(permissions): confine default read to cwd, temp, and imported npm packages",
+          "url": "https://github.com/denoland/deno/pull/35984",
+          "state": "open"
+        },
+        {
+          "number": 27627,
+          "title": "Deno installs unused npm dependencies despite --entrypoint flag usage",
+          "url": "https://github.com/denoland/deno/issues/27627",
+          "state": "open"
+        },
+        {
+          "number": 36396,
+          "title": "Feature request: bounded automatic management of `DENO_DIR`",
+          "url": "https://github.com/denoland/deno/issues/36396",
+          "state": "open"
+        },
+        {
+          "number": 35715,
+          "title": "Block known-malicious npm package versions at add/install time (OSV MAL-* gate)",
+          "url": "https://github.com/denoland/deno/issues/35715",
+          "state": "open"
+        },
+        {
+          "number": 34850,
+          "title": "feat(npm): prompt for global install lifecycle scripts",
+          "url": "https://github.com/denoland/deno/pull/34850",
+          "state": "open"
+        },
+        {
+          "number": 17411,
+          "title": "npm: node-rfc LoadLibraryExW failed",
+          "url": "https://github.com/denoland/deno/issues/17411",
+          "state": "open"
+        },
+        {
+          "number": 30887,
+          "title": "deno task always fetch all defined dependencies, doesn't respect --cached-only for particular task",
+          "url": "https://github.com/denoland/deno/issues/30887",
+          "state": "open"
+        },
+        {
+          "number": 35957,
+          "title": "feat(permissions): confine relaxed-profile read to cwd+tmp+imported-npm-packages, deny-write .git",
+          "url": "https://github.com/denoland/deno/pull/35957",
+          "state": "open"
+        },
+        {
+          "number": 35015,
+          "title": "fix(npm): enable BYONM for package.json in a workspace member",
+          "url": "https://github.com/denoland/deno/pull/35015",
+          "state": "open"
+        },
+        {
+          "number": 34805,
+          "title": "feat(resolver): support transitive mappings for npm: specifiers",
+          "url": "https://github.com/denoland/deno/pull/34805",
+          "state": "open"
+        },
+        {
+          "number": 36634,
+          "title": "feat(compile): embed V8 code cache at build time",
+          "url": "https://github.com/denoland/deno/pull/36634",
+          "state": "open"
+        },
+        {
+          "number": 35819,
+          "title": "feat(compile): apply --exclude-unused-npm to local node_modules directories",
+          "url": "https://github.com/denoland/deno/pull/35819",
+          "state": "open"
+        },
+        {
+          "number": 35742,
+          "title": "nodeModulesLinker \"hoisted\": lifecycle scripts resolve dependency bins to isolated-layout paths, breaking native addons",
+          "url": "https://github.com/denoland/deno/issues/35742",
+          "state": "open"
+        },
+        {
+          "number": 36730,
+          "title": "deno 2.9.6 cannot run playwright 1.62.0",
+          "url": "https://github.com/denoland/deno/issues/36730",
+          "state": "open"
+        },
+        {
+          "number": 30694,
+          "title": "Env var interpolation in permission sets",
+          "url": "https://github.com/denoland/deno/issues/30694",
+          "state": "open"
+        },
+        {
+          "number": 35716,
+          "title": "Confirmation gate for adding npm packages with very low download counts (typosquat guard)",
+          "url": "https://github.com/denoland/deno/issues/35716",
+          "state": "open"
+        },
+        {
+          "number": 35804,
+          "title": "Concurrent deno run/test corrupts node_modules on Windows (nodeModulesDir: auto, lock: false)",
+          "url": "https://github.com/denoland/deno/issues/35804",
+          "state": "open"
+        },
+        {
+          "number": 37028,
+          "title": "fix(lsp): respect minimumDependencyAge in completions and resolution",
+          "url": "https://github.com/denoland/deno/pull/37028",
+          "state": "open"
+        },
+        {
+          "number": 35879,
+          "title": "`deno run --cached-only` can fail after `deno cache` due to JSR resolution divergence with type-only imports",
+          "url": "https://github.com/denoland/deno/issues/35879",
+          "state": "open"
+        },
+        {
+          "number": 36239,
+          "title": "Blanket --allow-scripts aborts entire run when an optionalDependency install script fails",
+          "url": "https://github.com/denoland/deno/issues/36239",
+          "state": "open"
+        },
+        {
+          "number": 35041,
+          "title": "fix(install): honor npm libc field when installing optional deps",
+          "url": "https://github.com/denoland/deno/pull/35041",
+          "state": "open"
+        },
+        {
+          "number": 34827,
+          "title": "fix(cache): allow no-remote to read vendored modules",
+          "url": "https://github.com/denoland/deno/pull/34827",
+          "state": "open"
+        },
+        {
+          "number": 25397,
+          "title": "[webgpu] backend not found when use onnxruntime-web",
+          "url": "https://github.com/denoland/deno/issues/25397",
+          "state": "open"
+        },
+        {
+          "number": 36909,
+          "title": "perf(install): keep a copy of the lockfile in node_modules to avoid re-resolving",
+          "url": "https://github.com/denoland/deno/pull/36909",
+          "state": "open"
+        },
+        {
+          "number": 29338,
+          "title": "fix(compile): only include used npm packages in compiled vfs",
+          "url": "https://github.com/denoland/deno/pull/29338",
+          "state": "open"
+        },
+        {
+          "number": 35714,
+          "title": "Harden approved npm lifecycle scripts: scrubbed environment, temporary HOME, confined writes",
+          "url": "https://github.com/denoland/deno/issues/35714",
+          "state": "open"
+        },
+        {
+          "number": 35817,
+          "title": "`--exclude` and `--exclude-unused-npm` never reach a local node_modules directory (`deno desktop` / `deno compile`)",
+          "url": "https://github.com/denoland/deno/issues/35817",
+          "state": "open"
+        },
+        {
+          "number": 35892,
+          "title": "fix(task): resolve npm run inside node_modules against the package's own package.json",
+          "url": "https://github.com/denoland/deno/pull/35892",
+          "state": "open"
+        },
+        {
+          "number": 35482,
+          "title": "fix(node): support require() of file:// URLs",
+          "url": "https://github.com/denoland/deno/pull/35482",
+          "state": "open"
+        },
+        {
+          "number": 19999,
+          "title": "Output hash of `deno cache` is different on local machine and in CI even with lockfile",
+          "url": "https://github.com/denoland/deno/issues/19999",
+          "state": "open"
+        },
+        {
+          "number": 20595,
+          "title": "@nestjs/graphql: node compat issue with Request and AbortSignal?",
+          "url": "https://github.com/denoland/deno/issues/20595",
+          "state": "open"
+        },
+        {
+          "number": 35584,
+          "title": "feat(lint): type-aware linting via tsgolint",
+          "url": "https://github.com/denoland/deno/pull/35584",
+          "state": "open"
+        },
+        {
+          "number": 36412,
+          "title": "fix(resolver): treat files in any node_modules dir as CJS-by-package.json",
+          "url": "https://github.com/denoland/deno/pull/36412",
+          "state": "open"
+        },
+        {
+          "number": 31648,
+          "title": "`@latest` behavior is different between `npx` and `dx`/`deno x`",
+          "url": "https://github.com/denoland/deno/issues/31648",
+          "state": "open"
+        },
+        {
+          "number": 32902,
+          "title": "Support fallback to official npm registry when scoped/custom registry returns 404 or package not found",
+          "url": "https://github.com/denoland/deno/issues/32902",
+          "state": "open"
+        },
+        {
+          "number": 36376,
+          "title": "Project-local `.deno/` from sync-types/check: relocate under DENO_DIR or provide an opt-out",
+          "url": "https://github.com/denoland/deno/issues/36376",
+          "state": "open"
+        },
+        {
+          "number": 36328,
+          "title": "fix(ext/node): keep process.cwd() in sync with Deno.chdir()",
+          "url": "https://github.com/denoland/deno/pull/36328",
+          "state": "open"
+        },
+        {
+          "number": 36485,
+          "title": "deno install (non-global): help lists Permission options but --allow-all is rejected",
+          "url": "https://github.com/denoland/deno/issues/36485",
+          "state": "open"
+        },
+        {
+          "number": 36085,
+          "title": "deno check (native tsgo): spec tests deferred for initial landing",
+          "url": "https://github.com/denoland/deno/issues/36085",
+          "state": "open"
+        },
+        {
+          "number": 32795,
+          "title": "Named permissions don't stack: specifying an additional permission value overwrites all values specified in the named permission set",
+          "url": "https://github.com/denoland/deno/issues/32795",
+          "state": "open"
+        },
+        {
+          "number": 36091,
+          "title": "Native tsc check: diagnostic parity and robustness follow-ups",
+          "url": "https://github.com/denoland/deno/issues/36091",
+          "state": "open"
+        },
+        {
+          "number": 33709,
+          "title": "node:http2 polyfill: @grpc/grpc-js gRPC callbacks silently hang on Deno Deploy",
+          "url": "https://github.com/denoland/deno/issues/33709",
+          "state": "open"
+        },
+        {
+          "number": 36330,
+          "title": "fix(install): link a local workspace member's `bin` into node_modules/.bin",
+          "url": "https://github.com/denoland/deno/pull/36330",
+          "state": "open"
+        },
+        {
+          "number": 19764,
+          "title": "`deno compile` binaries should not include `@types/node` in the npm virtual filesystem",
+          "url": "https://github.com/denoland/deno/issues/19764",
+          "state": "open"
+        },
+        {
+          "number": 36189,
+          "title": "fix(tests): tolerate a source file vanishing during a recursive copy",
+          "url": "https://github.com/denoland/deno/pull/36189",
+          "state": "open"
+        },
+        {
+          "number": 33163,
+          "title": "feat(install): install jsr packages and generate tsconfig for stock tsc",
+          "url": "https://github.com/denoland/deno/pull/33163",
+          "state": "open"
+        },
+        {
+          "number": 34798,
+          "title": "feat(doc): support --conditions and --minimum-dependency-age flags",
+          "url": "https://github.com/denoland/deno/pull/34798",
+          "state": "open"
+        },
+        {
+          "number": 31347,
+          "title": "`redocly` hangs and shows different results compared to Node.js output",
+          "url": "https://github.com/denoland/deno/issues/31347",
+          "state": "open"
+        },
+        {
+          "number": 35962,
+          "title": "test(permissions): comprehensive coverage for the relaxed-default profile",
+          "url": "https://github.com/denoland/deno/pull/35962",
+          "state": "open"
+        },
+        {
+          "number": 31037,
+          "title": "Cannot resolve self-dependent packages in node_modules (importing multiple versions of the same package)",
+          "url": "https://github.com/denoland/deno/issues/31037",
+          "state": "open"
+        },
+        {
+          "number": 33218,
+          "title": "deno compile: workers cannot fetch remote modules at runtime",
+          "url": "https://github.com/denoland/deno/issues/33218",
+          "state": "open"
+        },
+        {
+          "number": 25609,
+          "title": "Detect server restart with --watch ?",
+          "url": "https://github.com/denoland/deno/issues/25609",
+          "state": "open"
+        },
+        {
+          "number": 36951,
+          "title": "fix(lsp): alias node_modules files independent of the referrer",
+          "url": "https://github.com/denoland/deno/pull/36951",
+          "state": "open"
+        },
+        {
+          "number": 24862,
+          "title": "Allow executing TS scripts when NPM package is internal & private, and are treated as \"binaries\" (with shebang, etc.)",
+          "url": "https://github.com/denoland/deno/issues/24862",
+          "state": "open"
+        },
+        {
+          "number": 34769,
+          "title": "feat(info): support --conditions flag",
+          "url": "https://github.com/denoland/deno/pull/34769",
+          "state": "open"
+        },
+        {
+          "number": 32552,
+          "title": "feat(info): add `--depth` and `--collapse-modules`",
+          "url": "https://github.com/denoland/deno/pull/32552",
+          "state": "open"
+        },
+        {
+          "number": 33104,
+          "title": "feat(repl): support --import flag",
+          "url": "https://github.com/denoland/deno/pull/33104",
+          "state": "open"
+        },
+        {
+          "number": 32846,
+          "title": "warnings when running gemini cli with deno",
+          "url": "https://github.com/denoland/deno/issues/32846",
+          "state": "open"
+        },
+        {
+          "number": 28875,
+          "title": "Deno keeps endlessly fetching dependencies and consumes the whole disk",
+          "url": "https://github.com/denoland/deno/issues/28875",
+          "state": "open"
+        },
+        {
+          "number": 36045,
+          "title": "Complete native Windows ARM64 support across Deno's distribution surface",
+          "url": "https://github.com/denoland/deno/issues/36045",
+          "state": "open"
+        },
+        {
+          "number": 36855,
+          "title": "fix(node): preserve stdio fds for sync child processes",
+          "url": "https://github.com/denoland/deno/pull/36855",
+          "state": "open"
+        },
+        {
+          "number": 36525,
+          "title": "npm: --cached-only fails with \"npm package not found in cache\" when the cache holds abbreviated metadata without time",
+          "url": "https://github.com/denoland/deno/issues/36525",
+          "state": "closed"
+        },
+        {
+          "number": 36631,
+          "title": "fix(compile): extract a native addon's sibling files next to it",
+          "url": "https://github.com/denoland/deno/pull/36631",
+          "state": "open"
+        },
+        {
+          "number": 36564,
+          "title": "chore: update esbuild to 0.28.2",
+          "url": "https://github.com/denoland/deno/pull/36564",
+          "state": "open"
+        }
+      ]
+    },
+    {
+      "query": "repo:denoland/deno_cache_dir \"failed to unpack\"",
+      "total_count": 0,
+      "incomplete_results": false,
+      "items": []
+    },
+    {
+      "query": "repo:denoland/deno_cache_dir \"File exists\"",
+      "total_count": 0,
+      "incomplete_results": false,
+      "items": []
+    },
+    {
+      "query": "repo:denoland/deno_cache_dir \"noModuleCache\"",
+      "total_count": 0,
+      "incomplete_results": false,
+      "items": []
+    },
+    {
+      "query": "repo:denoland/deno_cache_dir \"npm\" \"cache\"",
+      "total_count": 4,
+      "incomplete_results": false,
+      "items": [
+        {
+          "number": 34,
+          "title": "Support \"npm:\" scheme",
+          "url": "https://github.com/denoland/deno_cache_dir/issues/34",
+          "state": "closed"
+        },
+        {
+          "number": 86,
+          "title": "Gen cache is incorrect on Mac OS",
+          "url": "https://github.com/denoland/deno_cache_dir/issues/86",
+          "state": "closed"
+        },
+        {
+          "number": 73,
+          "title": "feat(deno_dir): check `$XDG_CACHE_HOME` before defaulting to system cache path",
+          "url": "https://github.com/denoland/deno_cache_dir/pull/73",
+          "state": "closed"
+        },
+        {
+          "number": 3,
+          "title": "Switch away from deprecated `std/hash`",
+          "url": "https://github.com/denoland/deno_cache_dir/issues/3",
+          "state": "closed"
+        }
+      ]
+    },
+    {
+      "query": "org:supabase \"Failed caching npm package\"",
+      "total_count": 0,
+      "incomplete_results": false,
+      "items": []
+    },
+    {
+      "query": "org:supabase \"os error 17\"",
+      "total_count": 102,
+      "incomplete_results": false,
+      "items": [
+        {
+          "number": 17,
+          "title": "feature: Customization",
+          "url": "https://github.com/supabase/ui/issues/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Objects refactor and completeness",
+          "url": "https://github.com/supabase/pg-toolbelt/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "build(deps): bump url-parse from 1.5.3 to 1.5.10",
+          "url": "https://github.com/supabase/auth-elements/pull/17",
+          "state": "open"
+        },
+        {
+          "number": 17,
+          "title": "Session not stored with the latest supabase_flutter update",
+          "url": "https://github.com/supabase/supabase-flutter/issues/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "feat: #5 support server side storage upload",
+          "url": "https://github.com/supabase/storage-js/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Release Supabase CLI (Beta)",
+          "url": "https://github.com/supabase/homebrew-tap/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Set up with Layer CI - https://show.layerci.com",
+          "url": "https://github.com/supabase/postgres/issues/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Use httpx instead of requests for async support",
+          "url": "https://github.com/supabase/auth-py/issues/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Rename the common/shared module from `configuration` to `core`",
+          "url": "https://github.com/supabase/supabase-go/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "feat: add automatic collection pagination",
+          "url": "https://github.com/supabase/tanstack-db/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Implement .match() command",
+          "url": "https://github.com/supabase/postgrest-py/issues/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "fix: install latest npm when publishing",
+          "url": "https://github.com/supabase/phoenix/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "added support for PUT, PATCH, and DELETE",
+          "url": "https://github.com/supabase/functions-relay/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "[Request] When are docs for Realtime and Storage coming?",
+          "url": "https://github.com/supabase/supabase-swift/issues/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "AMI/Packer deployment considerations",
+          "url": "https://github.com/supabase/nix-postgres/issues/17",
+          "state": "open"
+        },
+        {
+          "number": 17,
+          "title": "Add feature of supporting PostgreSQL 14.",
+          "url": "https://github.com/supabase/supautils/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "fix: `gqlPostOrThrow` config var usage",
+          "url": "https://github.com/supabase/fly-admin/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "add examples for pgrest and pg benchmarks",
+          "url": "https://github.com/supabase/benchmarks/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "optionally respect publication settings",
+          "url": "https://github.com/supabase/walrus/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "fix: audit alerts",
+          "url": "https://github.com/supabase/test-inspector/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "fix: set `vault.secrets` owner to `session_user`",
+          "url": "https://github.com/supabase/vault/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Bump axios from 0.21.0 to 0.21.2 in /runtime",
+          "url": "https://github.com/supabase/pgadmin4/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Bump golang.org/x/net from 0.5.0 to 0.7.0",
+          "url": "https://github.com/supabase/imgproxy/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "build(deps): bump github.com/hashicorp/copywrite from 0.22.0 to 0.24.0 in /tools",
+          "url": "https://github.com/supabase/terraform-provider-supabase-analytics/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Bump the go_modules group across 4 directories with 8 updates",
+          "url": "https://github.com/supabase/beam/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Duplicate organization and repository rows under star history table",
+          "url": "https://github.com/supabase/repository.surf/issues/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Semis please",
+          "url": "https://github.com/supabase/smart-office-demo/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "chore: additional notifications types",
+          "url": "https://github.com/supabase/shared-types/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Realtime RLS Broadcasts Errors",
+          "url": "https://github.com/supabase/supabase-csharp/issues/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Add option to prevent \"updates\" on unmodified updates.",
+          "url": "https://github.com/supabase/supabase-js/issues/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Callback of `onAuthStateChange()` is not called when `recoverSession()` is used",
+          "url": "https://github.com/supabase/gotrue-dart/issues/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Feat: add descriptive labels to filter operation list",
+          "url": "https://github.com/supabase/grid/issues/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "TLE Installer CLI",
+          "url": "https://github.com/supabase/dbdev/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "chore: add tutorial for setting up terraform",
+          "url": "https://github.com/supabase/terraform-provider-supabase/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Chore/formatting again",
+          "url": "https://github.com/supabase/splinter/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Realtime throughput benchmarks",
+          "url": "https://github.com/supabase/benchmarks-archive/issues/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Update Supabase CLI version",
+          "url": "https://github.com/supabase/supabase-action-example/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Handle tables with TOAST values",
+          "url": "https://github.com/supabase/etl/issues/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "magic link support",
+          "url": "https://github.com/supabase/auth/issues/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Elixir Mapper does not account for array data types",
+          "url": "https://github.com/supabase/realtime/issues/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Update README.md",
+          "url": "https://github.com/supabase/supabase-py/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Update supabase-beta.json",
+          "url": "https://github.com/supabase/scoop-bucket/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Unhandled Exception: type 'String' is not a subtype of type 'int' of 'index'",
+          "url": "https://github.com/supabase/realtime-dart/issues/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Efficient Access Patterns for Databases with Many Collections",
+          "url": "https://github.com/supabase/vecs/issues/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "fix: Apply workaround for SSL mode direct",
+          "url": "https://github.com/supabase/go-tpc/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "chore(deps-dev): bump python-dotenv from 0.20.0 to 0.21.0",
+          "url": "https://github.com/supabase/storage-py/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Missing dependency on uuid-ossp",
+          "url": "https://github.com/supabase/supa_audit/issues/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Update postgrest.dart",
+          "url": "https://github.com/supabase/postgrest-dart/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Bump @supabase/doctest-js from 0.0.10 to 0.1.0",
+          "url": "https://github.com/supabase/postgrest-js/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "chore(deps-dev): bump @typescript-eslint/parser from 5.58.0 to 5.59.5",
+          "url": "https://github.com/supabase/fly-preview/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Ability to create a new role",
+          "url": "https://github.com/supabase/postgres-meta/issues/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "OpenAPI Specs",
+          "url": "https://github.com/supabase/supavisor/issues/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "chore: publish v1.1.0",
+          "url": "https://github.com/supabase/functions-dart/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "docs: clarify cli usage",
+          "url": "https://github.com/supabase/mcp/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Feature Request: Subscriptions / Live Queries",
+          "url": "https://github.com/supabase/pg_graphql/issues/17",
+          "state": "open"
+        },
+        {
+          "number": 17,
+          "title": "build(deps-dev): bump typescript from 5.0.4 to 5.1.3",
+          "url": "https://github.com/supabase/embeddings-generator/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "fix(docker): bump the docker-minor group across 1 directory with 6 updates",
+          "url": "https://github.com/supabase/cli-monorepo-sandbox/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Publish per-service artifacts and multi-platform images",
+          "url": "https://github.com/supabase/slim-services/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Bump eslint from 7.32.0 to 8.0.1",
+          "url": "https://github.com/supabase/react-data-grid/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "start command won't recover from interrupted initialization",
+          "url": "https://github.com/supabase/cli/issues/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Allow objects / buckets to be fully public",
+          "url": "https://github.com/supabase/storage/issues/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "chore(deps-dev): bump semantic-release from 19.0.2 to 19.0.3",
+          "url": "https://github.com/supabase/functions-js/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "chore(main): release iceberg-js 0.6.0",
+          "url": "https://github.com/supabase/iceberg-js/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "docs: document FeatureFlagVerdict/FeatureFlagContribution fields",
+          "url": "https://github.com/supabase/middleware/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "feat: supabase db references",
+          "url": "https://github.com/supabase/agent-skills/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "chore(main): release 0.2.0",
+          "url": "https://github.com/supabase/middleware-openfeature/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Auto merge minor dependabot updates",
+          "url": "https://github.com/supabase/setup-cli/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "feat: add cities and disable_continental_shuffle to cohort cfg",
+          "url": "https://github.com/supabase/terraform-provider-ripe-atlas/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "chore: allow bangs in commit types to mark breaking changes",
+          "url": "https://github.com/supabase/plug_caisson/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "repo name change",
+          "url": "https://github.com/supabase/supabase/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "fix: added a health check endpoint to the service",
+          "url": "https://github.com/supabase/edge-runtime/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Add.md files for hacktoberfest",
+          "url": "https://github.com/supabase/realtime-py/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "fix: set a 3m minute delay. this seems to be the sweetspot",
+          "url": "https://github.com/supabase/cloudflare-exporter/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Bump next from 15.5.2 to 16.0.7",
+          "url": "https://github.com/supabase/productions/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "chore: add CODEOWNERS file",
+          "url": "https://github.com/supabase/sdk/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "feat: wire atlasctl v0.1.4 changes through provider schema",
+          "url": "https://github.com/supabase/pulumi-atlas/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "fix: release from within dist folder",
+          "url": "https://github.com/supabase/auth-helpers/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Update v1 nextjs-auth-tailwind example",
+          "url": "https://github.com/supabase/examples-archive/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Bump the npm_and_yarn group across 3 directories with 7 updates",
+          "url": "https://github.com/supabase/otel-cf-workers/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "feat: previews for select in geojson",
+          "url": "https://github.com/supabase/atlasctl/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "chore: publish version 0.0.5+1",
+          "url": "https://github.com/supabase/storage-dart/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Added comment in .env.sample to clarify password creation",
+          "url": "https://github.com/supabase/supabase-grafana/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "fix:replace automatic pagination with manual pagination",
+          "url": "https://github.com/supabase/orb-sync-engine/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "feat: update @supabase/ssr to v0.9.0",
+          "url": "https://github.com/supabase/multiplayer.dev/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Bump eslint from 7.2.0 to 7.3.0",
+          "url": "https://github.com/supabase/realtime-js/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "fix: removing `core` lib exports from root index",
+          "url": "https://github.com/supabase/server/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "fix: fix `createBrowserClient` deprecation tsdoc",
+          "url": "https://github.com/supabase/ssr/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "feat: support POST",
+          "url": "https://github.com/supabase/pg_net/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "fix: correct embedded json data for dash",
+          "url": "https://github.com/supabase/grafana-dashboards-archive/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Support socket options",
+          "url": "https://github.com/supabase/libcluster_postgres/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Fix: gh actions to support pg15",
+          "url": "https://github.com/supabase/pg_jsonschema/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "chore: trusted publisher workflow",
+          "url": "https://github.com/supabase/node-postgres/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Update ts-to-rls to 2b8f57d2fcd8e59c8bd3f383e724157238972eb6",
+          "url": "https://github.com/supabase/ts-to-rls-demo/pull/17",
+          "state": "open"
+        },
+        {
+          "number": 17,
+          "title": "chore(deps): bump httpx from 0.24.1 to 0.25.1",
+          "url": "https://github.com/supabase/functions-py/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "feat/partial gen limits",
+          "url": "https://github.com/supabase/elixir-otel-metric-exporter/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Fix tests not passing, add some typings to the API",
+          "url": "https://github.com/supabase/auth-js/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "CI only fix: Add amd64 build to CI release",
+          "url": "https://github.com/supabase/wrappers/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 17,
+          "title": "Fix greedy comment regex and deallocate-all blast radius (stacked on #14)",
+          "url": "https://github.com/supabase/index_advisor/pull/17",
+          "state": "open"
+        },
+        {
+          "number": 17,
+          "title": "feat: add Data API empty results eval",
+          "url": "https://github.com/supabase/evals/pull/17",
+          "state": "closed"
+        },
+        {
+          "number": 5128,
+          "title": "fix(windows): json unmarshal errors in telemetry and pg-delta declarative sync",
+          "url": "https://github.com/supabase/cli/pull/5128",
+          "state": "closed"
+        }
+      ]
+    },
+    {
+      "query": "repo:denoland/deno \"reload\" \"tarball\"",
+      "total_count": 12,
+      "incomplete_results": false,
+      "items": [
+        {
+          "number": 16164,
+          "title": "Support for install scripts (ex. \"postinstall\") for \"npm:\" specifiers with global node modules",
+          "url": "https://github.com/denoland/deno/issues/16164",
+          "state": "open"
+        },
+        {
+          "number": 36467,
+          "title": "fix(bundle): isolate esbuild downloads from workspace registries",
+          "url": "https://github.com/denoland/deno/pull/36467",
+          "state": "closed"
+        },
+        {
+          "number": 17411,
+          "title": "npm: node-rfc LoadLibraryExW failed",
+          "url": "https://github.com/denoland/deno/issues/17411",
+          "state": "open"
+        },
+        {
+          "number": 35380,
+          "title": "fix(update): refetch npm metadata so stale cache doesn't hide newer versions",
+          "url": "https://github.com/denoland/deno/pull/35380",
+          "state": "closed"
+        },
+        {
+          "number": 23953,
+          "title": ".npmrc: `--reload` is broken ",
+          "url": "https://github.com/denoland/deno/issues/23953",
+          "state": "closed"
+        },
+        {
+          "number": 35894,
+          "title": "feat(unstable): add deno sync-types subcommand for stock TypeScript config",
+          "url": "https://github.com/denoland/deno/pull/35894",
+          "state": "closed"
+        },
+        {
+          "number": 9839,
+          "title": "Using GitLab with Auth Token doesn't work",
+          "url": "https://github.com/denoland/deno/issues/9839",
+          "state": "closed"
+        },
+        {
+          "number": 29130,
+          "title": "fix(npm): respect etag for npm packument caching",
+          "url": "https://github.com/denoland/deno/pull/29130",
+          "state": "closed"
+        },
+        {
+          "number": 23759,
+          "title": "fix(npm): make tarball extraction more reliable",
+          "url": "https://github.com/denoland/deno/pull/23759",
+          "state": "closed"
+        },
+        {
+          "number": 18605,
+          "title": "\"deno cache --reload <package_name>\" reloads all dependencies in Node project",
+          "url": "https://github.com/denoland/deno/issues/18605",
+          "state": "closed"
+        },
+        {
+          "number": 16901,
+          "title": "Cache bust npm specifiers more aggressively",
+          "url": "https://github.com/denoland/deno/issues/16901",
+          "state": "closed"
+        },
+        {
+          "number": 15972,
+          "title": "feat(npm): add support for --reload=npm: and --reload=npm:<package>",
+          "url": "https://github.com/denoland/deno/pull/15972",
+          "state": "closed"
+        }
+      ]
+    },
+    {
+      "query": "repo:denoland/deno \"concurrent\" \"cache\"",
+      "total_count": 104,
+      "incomplete_results": false,
+      "items": [
+        {
+          "number": 36943,
+          "title": "Cross-process locking for DENO_DIR and build outputs (Cargo-style cache locks)",
+          "url": "https://github.com/denoland/deno/issues/36943",
+          "state": "open"
+        },
+        {
+          "number": 35804,
+          "title": "Concurrent deno run/test corrupts node_modules on Windows (nodeModulesDir: auto, lock: false)",
+          "url": "https://github.com/denoland/deno/issues/35804",
+          "state": "open"
+        },
+        {
+          "number": 32932,
+          "title": "feat(cli): add DENO_CACHE_MAX_SIZE env var for automatic cache trimming",
+          "url": "https://github.com/denoland/deno/pull/32932",
+          "state": "open"
+        },
+        {
+          "number": 36641,
+          "title": "perf(ext/fs): cache the cwd, invalidate on chdir",
+          "url": "https://github.com/denoland/deno/pull/36641",
+          "state": "open"
+        },
+        {
+          "number": 36755,
+          "title": "`Deno.readDir` async iterator caps at ~2.8x effective parallelism on high-latency filesystems",
+          "url": "https://github.com/denoland/deno/issues/36755",
+          "state": "open"
+        },
+        {
+          "number": 36184,
+          "title": "flaky: specs::npm::pkg_json_imports::compile fails copying npm-compat cache file (No such file or directory)",
+          "url": "https://github.com/denoland/deno/issues/36184",
+          "state": "open"
+        },
+        {
+          "number": 35589,
+          "title": "feat(npm): side-effects cache for npm build scripts",
+          "url": "https://github.com/denoland/deno/pull/35589",
+          "state": "open"
+        },
+        {
+          "number": 36189,
+          "title": "fix(tests): tolerate a source file vanishing during a recursive copy",
+          "url": "https://github.com/denoland/deno/pull/36189",
+          "state": "open"
+        },
+        {
+          "number": 36396,
+          "title": "Feature request: bounded automatic management of `DENO_DIR`",
+          "url": "https://github.com/denoland/deno/issues/36396",
+          "state": "open"
+        },
+        {
+          "number": 35854,
+          "title": "feat(npm): add global virtual store",
+          "url": "https://github.com/denoland/deno/pull/35854",
+          "state": "open"
+        },
+        {
+          "number": 35179,
+          "title": "feat(tls): public resolveCertificate SNI option + ClientHello info",
+          "url": "https://github.com/denoland/deno/pull/35179",
+          "state": "open"
+        },
+        {
+          "number": 36631,
+          "title": "fix(compile): extract a native addon's sibling files next to it",
+          "url": "https://github.com/denoland/deno/pull/36631",
+          "state": "open"
+        },
+        {
+          "number": 31926,
+          "title": "error: Could not find npm package '@my-private-registry/my-package' matching '<VERSION>'.",
+          "url": "https://github.com/denoland/deno/issues/31926",
+          "state": "open"
+        },
+        {
+          "number": 35584,
+          "title": "feat(lint): type-aware linting via tsgolint",
+          "url": "https://github.com/denoland/deno/pull/35584",
+          "state": "open"
+        },
+        {
+          "number": 35459,
+          "title": "fix: bundled npm compile output naming",
+          "url": "https://github.com/denoland/deno/pull/35459",
+          "state": "open"
+        },
+        {
+          "number": 36091,
+          "title": "Native tsc check: diagnostic parity and robustness follow-ups",
+          "url": "https://github.com/denoland/deno/issues/36091",
+          "state": "open"
+        },
+        {
+          "number": 35041,
+          "title": "fix(install): honor npm libc field when installing optional deps",
+          "url": "https://github.com/denoland/deno/pull/35041",
+          "state": "open"
+        },
+        {
+          "number": 36330,
+          "title": "fix(install): link a local workspace member's `bin` into node_modules/.bin",
+          "url": "https://github.com/denoland/deno/pull/36330",
+          "state": "open"
+        },
+        {
+          "number": 33055,
+          "title": "fix(ext/node): auto-register raw fds in fs.write() with --allow-fd permission",
+          "url": "https://github.com/denoland/deno/pull/33055",
+          "state": "open"
+        },
+        {
+          "number": 33163,
+          "title": "feat(install): install jsr packages and generate tsconfig for stock tsc",
+          "url": "https://github.com/denoland/deno/pull/33163",
+          "state": "open"
+        },
+        {
+          "number": 35723,
+          "title": "feat: add --max-memory, --max-cpu-time and --max-time resource limit flags",
+          "url": "https://github.com/denoland/deno/pull/35723",
+          "state": "open"
+        },
+        {
+          "number": 36062,
+          "title": "fix(tls): resolve sni requests concurrently",
+          "url": "https://github.com/denoland/deno/pull/36062",
+          "state": "closed"
+        },
+        {
+          "number": 36697,
+          "title": "fix(check): atomic materialization of npm-compat @types/node to deflake CI",
+          "url": "https://github.com/denoland/deno/pull/36697",
+          "state": "closed"
+        },
+        {
+          "number": 36683,
+          "title": "perf(core): drop dead module-graph retention",
+          "url": "https://github.com/denoland/deno/pull/36683",
+          "state": "closed"
+        },
+        {
+          "number": 36228,
+          "title": "deno node MSSQL ConnectionPool: alternating TLS connection failures on pool initialization",
+          "url": "https://github.com/denoland/deno/issues/36228",
+          "state": "closed"
+        },
+        {
+          "number": 34845,
+          "title": "fix(bundle): don't panic when esbuild binary is busy or unavailable",
+          "url": "https://github.com/denoland/deno/pull/34845",
+          "state": "closed"
+        },
+        {
+          "number": 34437,
+          "title": "perf(ext/web): convert hot stream queues to O(1) Queue, cache _state reads",
+          "url": "https://github.com/denoland/deno/pull/34437",
+          "state": "closed"
+        },
+        {
+          "number": 35352,
+          "title": "flaky: integration::watcher::serve_watch_parallel_stops_old_workers on windows-x86_64",
+          "url": "https://github.com/denoland/deno/issues/35352",
+          "state": "closed"
+        },
+        {
+          "number": 21035,
+          "title": "web workers - import() is not cached?",
+          "url": "https://github.com/denoland/deno/issues/21035",
+          "state": "closed"
+        },
+        {
+          "number": 24330,
+          "title": "Deno cache database errors when on a shared drive",
+          "url": "https://github.com/denoland/deno/issues/24330",
+          "state": "closed"
+        },
+        {
+          "number": 34636,
+          "title": "perf(ext/node): optimize empty node:http response end",
+          "url": "https://github.com/denoland/deno/pull/34636",
+          "state": "closed"
+        },
+        {
+          "number": 35395,
+          "title": "specs::npm::playwright_compat hangs in CI: yauzl zip extraction deadlocks under deferred node bootstrap (#34450)",
+          "url": "https://github.com/denoland/deno/issues/35395",
+          "state": "closed"
+        },
+        {
+          "number": 35758,
+          "title": "refactor: port clap parity tests to deno_cli_parser",
+          "url": "https://github.com/denoland/deno/pull/35758",
+          "state": "closed"
+        },
+        {
+          "number": 35105,
+          "title": "fix(ext/http): close active WebSockets on Deno.serve shutdown",
+          "url": "https://github.com/denoland/deno/pull/35105",
+          "state": "closed"
+        },
+        {
+          "number": 21382,
+          "title": "[Deno KV] In-memory backend",
+          "url": "https://github.com/denoland/deno/issues/21382",
+          "state": "closed"
+        },
+        {
+          "number": 34301,
+          "title": "perf: reduce embedded lazy source binary size",
+          "url": "https://github.com/denoland/deno/pull/34301",
+          "state": "closed"
+        },
+        {
+          "number": 30079,
+          "title": "Friction configuring simple frontend dev server on deno",
+          "url": "https://github.com/denoland/deno/issues/30079",
+          "state": "closed"
+        },
+        {
+          "number": 27773,
+          "title": "Deno panic on KV",
+          "url": "https://github.com/denoland/deno/issues/27773",
+          "state": "closed"
+        },
+        {
+          "number": 34969,
+          "title": "feat(cli): provide a `node` on PATH when Node.js is not installed",
+          "url": "https://github.com/denoland/deno/pull/34969",
+          "state": "closed"
+        },
+        {
+          "number": 33859,
+          "title": "fix(ext/node): improve module hooks (registerHooks + register)",
+          "url": "https://github.com/denoland/deno/pull/33859",
+          "state": "closed"
+        },
+        {
+          "number": 35133,
+          "title": "fix(publish): continue publishing workspace after a package fails",
+          "url": "https://github.com/denoland/deno/pull/35133",
+          "state": "closed"
+        },
+        {
+          "number": 33556,
+          "title": "test: enable 9 already-passing Node compat tests",
+          "url": "https://github.com/denoland/deno/pull/33556",
+          "state": "closed"
+        },
+        {
+          "number": 33693,
+          "title": "fix(ext/node): share TLS session cache and ticketer for tls.TLSSocket session resumption",
+          "url": "https://github.com/denoland/deno/pull/33693",
+          "state": "closed"
+        },
+        {
+          "number": 33877,
+          "title": "fix(ext/node): improve module hooks support",
+          "url": "https://github.com/denoland/deno/pull/33877",
+          "state": "closed"
+        },
+        {
+          "number": 33641,
+          "title": "fix(ext/node): fix TLS crash with Happy Eyeballs address fallback",
+          "url": "https://github.com/denoland/deno/pull/33641",
+          "state": "closed"
+        },
+        {
+          "number": 32408,
+          "title": "perf(install): split tarball extraction into decompress + write, limit write concurrency",
+          "url": "https://github.com/denoland/deno/pull/32408",
+          "state": "closed"
+        },
+        {
+          "number": 34573,
+          "title": "chore: upgrade WPT submodule and refresh all expectations",
+          "url": "https://github.com/denoland/deno/pull/34573",
+          "state": "closed"
+        },
+        {
+          "number": 33266,
+          "title": "Deno 2.7.12 regression breaks Wrangler asset uploads in GitHub Actions",
+          "url": "https://github.com/denoland/deno/issues/33266",
+          "state": "closed"
+        },
+        {
+          "number": 33564,
+          "title": "test: enable 17 already-passing Node compat tests",
+          "url": "https://github.com/denoland/deno/pull/33564",
+          "state": "closed"
+        },
+        {
+          "number": 33696,
+          "title": "fix(ext/node): port internal/priority_queue and expose it via require",
+          "url": "https://github.com/denoland/deno/pull/33696",
+          "state": "closed"
+        },
+        {
+          "number": 34314,
+          "title": "perf(ext/websocket): integrate fastwebsockets PR #133 ServerEngine read path for plain TCP",
+          "url": "https://github.com/denoland/deno/pull/34314",
+          "state": "closed"
+        },
+        {
+          "number": 33482,
+          "title": "fix(ext/node): align node:module behavior with Node",
+          "url": "https://github.com/denoland/deno/pull/33482",
+          "state": "closed"
+        },
+        {
+          "number": 26801,
+          "title": "vite-plugin-checker invokes node: /usr/bin/env: 'node': No such file or directory",
+          "url": "https://github.com/denoland/deno/issues/26801",
+          "state": "closed"
+        },
+        {
+          "number": 31406,
+          "title": "`bundle` fails to delete directory",
+          "url": "https://github.com/denoland/deno/issues/31406",
+          "state": "closed"
+        },
+        {
+          "number": 34051,
+          "title": "perf research: fetch",
+          "url": "https://github.com/denoland/deno/pull/34051",
+          "state": "closed"
+        },
+        {
+          "number": 28687,
+          "title": "Extremely high memory usage on deno.",
+          "url": "https://github.com/denoland/deno/issues/28687",
+          "state": "closed"
+        },
+        {
+          "number": 33849,
+          "title": "feat(ext/node): implement module.register() API",
+          "url": "https://github.com/denoland/deno/pull/33849",
+          "state": "closed"
+        },
+        {
+          "number": 31372,
+          "title": "ci: add Claude PR reviews",
+          "url": "https://github.com/denoland/deno/pull/31372",
+          "state": "closed"
+        },
+        {
+          "number": 31080,
+          "title": "\"Too many open files\" in a long-running Deno process that does a lot of imports",
+          "url": "https://github.com/denoland/deno/issues/31080",
+          "state": "closed"
+        },
+        {
+          "number": 31442,
+          "title": "draft: test android build",
+          "url": "https://github.com/denoland/deno/pull/31442",
+          "state": "closed"
+        },
+        {
+          "number": 31375,
+          "title": "fix: fetch fd leak",
+          "url": "https://github.com/denoland/deno/pull/31375",
+          "state": "closed"
+        },
+        {
+          "number": 31201,
+          "title": "feat: add --require run arg to support commonJS",
+          "url": "https://github.com/denoland/deno/pull/31201",
+          "state": "closed"
+        },
+        {
+          "number": 31578,
+          "title": "ci: more stability for integration tests",
+          "url": "https://github.com/denoland/deno/pull/31578",
+          "state": "closed"
+        },
+        {
+          "number": 29013,
+          "title": "Unable to import npm package due to file extension issue",
+          "url": "https://github.com/denoland/deno/issues/29013",
+          "state": "closed"
+        },
+        {
+          "number": 26403,
+          "title": "`deno run -A npm:create-hono@latest` doesn't exit after creating",
+          "url": "https://github.com/denoland/deno/issues/26403",
+          "state": "closed"
+        },
+        {
+          "number": 29319,
+          "title": "refactor: add `deno_npm_installer` crate",
+          "url": "https://github.com/denoland/deno/pull/29319",
+          "state": "closed"
+        },
+        {
+          "number": 28647,
+          "title": "perf(npm): load npm resolution snapshot directly from lockfile",
+          "url": "https://github.com/denoland/deno/pull/28647",
+          "state": "closed"
+        },
+        {
+          "number": 6427,
+          "title": "error trying to connect: tls handshake eof",
+          "url": "https://github.com/denoland/deno/issues/6427",
+          "state": "closed"
+        },
+        {
+          "number": 11032,
+          "title": "lsp: replace code lens navigation tree with swc \"collector\"",
+          "url": "https://github.com/denoland/deno/issues/11032",
+          "state": "closed"
+        },
+        {
+          "number": 28321,
+          "title": "Passing OTEL context to console.log",
+          "url": "https://github.com/denoland/deno/issues/28321",
+          "state": "closed"
+        },
+        {
+          "number": 21530,
+          "title": "[deno task] suport filters/patterns/wildcards",
+          "url": "https://github.com/denoland/deno/issues/21530",
+          "state": "closed"
+        },
+        {
+          "number": 27670,
+          "title": "Deno 2.1.5 regressions with DNS regarding axios (due to node compat change)",
+          "url": "https://github.com/denoland/deno/issues/27670",
+          "state": "closed"
+        },
+        {
+          "number": 27988,
+          "title": "Runtime download of compile assets (`denort-x86_64-unknown-linux-gnu.zip`) fails",
+          "url": "https://github.com/denoland/deno/issues/27988",
+          "state": "closed"
+        },
+        {
+          "number": 26751,
+          "title": "Deno Panic in Docker Container on Linux/amd64 Platform",
+          "url": "https://github.com/denoland/deno/issues/26751",
+          "state": "closed"
+        },
+        {
+          "number": 26467,
+          "title": "feat(task): dependencies",
+          "url": "https://github.com/denoland/deno/pull/26467",
+          "state": "closed"
+        },
+        {
+          "number": 26180,
+          "title": "`deno install` does not cache all dep files.",
+          "url": "https://github.com/denoland/deno/issues/26180",
+          "state": "closed"
+        },
+        {
+          "number": 9244,
+          "title": "Non-deterministic source builds",
+          "url": "https://github.com/denoland/deno/issues/9244",
+          "state": "closed"
+        },
+        {
+          "number": 25924,
+          "title": "Unable to install npm package from private registry",
+          "url": "https://github.com/denoland/deno/issues/25924",
+          "state": "closed"
+        },
+        {
+          "number": 24684,
+          "title": "Memory leak in fetch",
+          "url": "https://github.com/denoland/deno/issues/24684",
+          "state": "closed"
+        },
+        {
+          "number": 24018,
+          "title": "perf(cli): Improve concurrency when setting up `node_modules` and loading cached npm package info",
+          "url": "https://github.com/denoland/deno/pull/24018",
+          "state": "closed"
+        },
+        {
+          "number": 23894,
+          "title": "perf: analyze cjs re-exports in parallel",
+          "url": "https://github.com/denoland/deno/pull/23894",
+          "state": "closed"
+        },
+        {
+          "number": 24098,
+          "title": "Investigating hung/paused process while dynamically importing async module ",
+          "url": "https://github.com/denoland/deno/issues/24098",
+          "state": "closed"
+        },
+        {
+          "number": 22520,
+          "title": "feat(unstable): `deno add` subcommand",
+          "url": "https://github.com/denoland/deno/pull/22520",
+          "state": "closed"
+        },
+        {
+          "number": 19831,
+          "title": "npm:mongodb fails on v1.35.1",
+          "url": "https://github.com/denoland/deno/issues/19831",
+          "state": "closed"
+        },
+        {
+          "number": 20121,
+          "title": "feat(lsp): npm specifier completions",
+          "url": "https://github.com/denoland/deno/pull/20121",
+          "state": "closed"
+        },
+        {
+          "number": 18602,
+          "title": "refactor(npm): use deno_npm and deno_semver",
+          "url": "https://github.com/denoland/deno/pull/18602",
+          "state": "closed"
+        },
+        {
+          "number": 18084,
+          "title": "perf: disable WAL for transpiled source cache",
+          "url": "https://github.com/denoland/deno/pull/18084",
+          "state": "closed"
+        },
+        {
+          "number": 11307,
+          "title": "Change language server to use concurrent cancellable reads and exclusive writes",
+          "url": "https://github.com/denoland/deno/issues/11307",
+          "state": "closed"
+        },
+        {
+          "number": 986,
+          "title": "\"deno compile\" into executable",
+          "url": "https://github.com/denoland/deno/issues/986",
+          "state": "closed"
+        },
+        {
+          "number": 13416,
+          "title": "refactor(lsp): store the `LspUrlMap`'s state behind a mutex",
+          "url": "https://github.com/denoland/deno/pull/13416",
+          "state": "closed"
+        },
+        {
+          "number": 12519,
+          "title": "Dynamic (remote) import is quite slow and seems not cached",
+          "url": "https://github.com/denoland/deno/issues/12519",
+          "state": "closed"
+        },
+        {
+          "number": 12747,
+          "title": "refactor(lsp): remove `Documents` mutex and require `Documents` to be mutated to change it",
+          "url": "https://github.com/denoland/deno/pull/12747",
+          "state": "closed"
+        },
+        {
+          "number": 11345,
+          "title": "lsp: cache swc ASTs",
+          "url": "https://github.com/denoland/deno/issues/11345",
+          "state": "closed"
+        },
+        {
+          "number": 12369,
+          "title": "refactor: integrate deno_graph",
+          "url": "https://github.com/denoland/deno/pull/12369",
+          "state": "closed"
+        },
+        {
+          "number": 9557,
+          "title": "refactor(lsp): don't hold inner state lock",
+          "url": "https://github.com/denoland/deno/pull/9557",
+          "state": "closed"
+        },
+        {
+          "number": 9815,
+          "title": "feat(cli): run test modules in parallel",
+          "url": "https://github.com/denoland/deno/pull/9815",
+          "state": "closed"
+        },
+        {
+          "number": 9160,
+          "title": "feat(cli/test): add deno test --watch",
+          "url": "https://github.com/denoland/deno/pull/9160",
+          "state": "closed"
+        },
+        {
+          "number": 8642,
+          "title": "feat(unstable): record raw coverage into a directory",
+          "url": "https://github.com/denoland/deno/pull/8642",
+          "state": "closed"
+        },
+        {
+          "number": 5420,
+          "title": "test: fixed initial `[WILDCARD]` not matching empty the on first line",
+          "url": "https://github.com/denoland/deno/pull/5420",
+          "state": "closed"
+        },
+        {
+          "number": 2057,
+          "title": "Rewrite deno_dir.rs",
+          "url": "https://github.com/denoland/deno/issues/2057",
+          "state": "closed"
+        }
+      ]
+    }
+  ]
+}

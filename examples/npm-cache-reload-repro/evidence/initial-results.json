@@ -1,0 +1,1058 @@
+[
+  {
+    "name": "reload-1",
+    "reload": true,
+    "round": 1,
+    "cold": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1022
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1888
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2764
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3614
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4498
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 5388
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 6273
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10021
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10021
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10021
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10020
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 10883
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 9928
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 8067
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 7153
+      }
+    ],
+    "serial": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1157
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1558
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1594
+      }
+    ],
+    "warm": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1037
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2062
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3196
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4281
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 5224
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 6391
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 7229
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 8170
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 9021
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 10000
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10010
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10010
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10011
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10011
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10011
+      }
+    ]
+  },
+  {
+    "name": "reload-2",
+    "reload": true,
+    "round": 2,
+    "cold": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 915
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1896
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2850
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4011
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4890
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 5804
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 6756
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 7634
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 8444
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 9393
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 10259
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10011
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10011
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10011
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10011
+      }
+    ],
+    "serial": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 889
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 889
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 882
+      }
+    ],
+    "warm": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 901
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 6444
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 7344
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 8231
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 9102
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 9916
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 10785
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10004
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10004
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10004
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1817
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2715
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 5517
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4573
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3599
+      }
+    ]
+  },
+  {
+    "name": "reload-3",
+    "reload": true,
+    "round": 3,
+    "cold": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 866
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1721
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2586
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3536
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4423
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 5286
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 6188
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 7037
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 7913
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 8796
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 9655
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 10527
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10008
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10008
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10007
+      }
+    ],
+    "serial": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 949
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 898
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1413
+      }
+    ],
+    "warm": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1309
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 5270
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 6209
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 7065
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 7938
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 8779
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 9622
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 10482
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10003
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10003
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10003
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10003
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2488
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3375
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4317
+      }
+    ]
+  },
+  {
+    "name": "use-1",
+    "reload": false,
+    "round": 1,
+    "cold": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 838
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 902
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 964
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1029
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1097
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1164
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1231
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1298
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1367
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1432
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1499
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1566
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1654
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1721
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1783
+      }
+    ],
+    "serial": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 61
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 61
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 61
+      }
+    ],
+    "warm": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 119
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 226
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 288
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 350
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 411
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 474
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 536
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 601
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 666
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 733
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 800
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 865
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 930
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 996
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1075
+      }
+    ]
+  },
+  {
+    "name": "use-2",
+    "reload": false,
+    "round": 2,
+    "cold": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 806
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 868
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 929
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 993
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1054
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1116
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1177
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1238
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1299
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1361
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1423
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1487
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1549
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1613
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1676
+      }
+    ],
+    "serial": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 64
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 67
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 63
+      }
+    ],
+    "warm": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 199
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 128
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 66
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 263
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 326
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 390
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 455
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 521
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 585
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 661
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 727
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 789
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 854
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 919
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 983
+      }
+    ]
+  },
+  {
+    "name": "use-3",
+    "reload": false,
+    "round": 3,
+    "cold": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1194
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1259
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1322
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1385
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1448
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1517
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1591
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1655
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1719
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1783
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1857
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1920
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1983
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2044
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2106
+      }
+    ],
+    "serial": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 63
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 63
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 64
+      }
+    ],
+    "warm": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 68
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 136
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 205
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 275
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 344
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 430
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 506
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 594
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 665
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 743
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 806
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 878
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 946
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1055
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1260
+      }
+    ]
+  }
+]

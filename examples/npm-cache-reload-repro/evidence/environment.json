@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-18",
+  "platform": "macOS-26.6.2-arm64-arm-64bit-Mach-O",
+  "node": "v24.13.0",
+  "runtimeVersionOutput": "edge-runtime 0.1.0; deno 2.1.4 (release, aarch64-apple-darwin)",
+  "artifactTag": "edge-runtime-v1.77.4-r0",
+  "checksums": {
+    "edge-runtime.tar.zst": "c0a16266b5208caec6669a982076575492c46f4d999748cdb7f3eb1dccbd6e39",
+    "runtime/bin/edge-runtime": "9524c18de3cea6de81c1b6545e5f02ebaccefaac373547d7a3adc1e41d6554bf",
+    "runtime/bin/.edge-runtime-wrapped": "b332625d8c1be88b192718d8d6d4510bf568261915daf0d66363ec6f7a97bf55"
+  }
+}
