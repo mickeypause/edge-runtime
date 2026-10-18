@@ -1,0 +1,998 @@
+[
+  {
+    "name": "bounded-reload-1",
+    "reload": true,
+    "round": 1,
+    "cold": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1045
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1066
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 856
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker boot error: failed to bootstrap runtime: Reading <repro>/evidence/run-v8tfm4/bounded-reload-1/cache/npm/registry.npmjs.org/zod/4.4.3/src/v4/classic/schemas.ts: No such file or directory (os error 2)",
+        "ms": 1902
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1959
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1762
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10025
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2826
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2664
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10025
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3643
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker boot error: failed to bootstrap runtime: Reading <repro>/evidence/run-v8tfm4/bounded-reload-1/cache/npm/registry.npmjs.org/zod/4.4.3/src/v4/classic/tests/generics.test.ts: No such file or directory (os error 2)",
+        "ms": 3555
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10024
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4531
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10024
+      }
+    ],
+    "serial": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 916
+      }
+    ],
+    "warm": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 937
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3699
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 805
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1893
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4506
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1673
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2826
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 936
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2571
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3739
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1883
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3470
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4611
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2786
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker boot error: failed to bootstrap runtime: Reading <repro>/evidence/run-v8tfm4/bounded-reload-1/cache/npm/registry.npmjs.org/zod/4.4.3/v4/locales/mk.d.cts: No such file or directory (os error 2)",
+        "ms": 4349
+      }
+    ]
+  },
+  {
+    "name": "bounded-reload-2",
+    "reload": true,
+    "round": 2,
+    "cold": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4929
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10018
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4873
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4013
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10017
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3942
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3031
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10017
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2979
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2087
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker boot error: failed to bootstrap runtime: Reading <repro>/evidence/run-v8tfm4/bounded-reload-2/cache/npm/registry.npmjs.org/zod/4.4.3/v4/locales/ka.d.ts: No such file or directory (os error 2)",
+        "ms": 1952
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2055
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1032
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 961
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1034
+      }
+    ],
+    "serial": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 946
+      }
+    ],
+    "warm": [
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker boot error: failed to bootstrap runtime: Reading <repro>/evidence/run-v8tfm4/bounded-reload-2/cache/npm/registry.npmjs.org/zod/4.4.3/v3/helpers/enumUtil.d.ts: No such file or directory (os error 2)",
+        "ms": 927
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1052
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1045
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10010
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1991
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1983
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10009
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2920
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2910
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10009
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3830
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3825
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10009
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker boot error: failed to bootstrap runtime: Reading <repro>/evidence/run-v8tfm4/bounded-reload-2/cache/npm/registry.npmjs.org/zod/4.4.3/v4/mini/parse.d.ts: No such file or directory (os error 2)",
+        "ms": 4664
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4734
+      }
+    ]
+  },
+  {
+    "name": "bounded-reload-3",
+    "reload": true,
+    "round": 3,
+    "cold": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1008
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 921
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 987
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1942
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1852
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1925
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2925
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2828
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker boot error: failed to bootstrap runtime: failed to create the graph: Failed caching npm package 'zod@4.4.3'.\n    0: failed to unpack `package/v4/locales/hr.cjs` into `<repro>/evidence/run-v8tfm4/bounded-reload-3/cache/npm/registry.npmjs.org/zod/4.4.3/v4/locales/hr.cjs`: File exists (os error 17)",
+        "ms": 2641
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3802
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3721
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10020
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4708
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4604
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10020
+      }
+    ],
+    "serial": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 888
+      }
+    ],
+    "warm": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1064
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1035
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1033
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2905
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2207
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker boot error: failed to bootstrap runtime: Reading <repro>/evidence/run-v8tfm4/bounded-reload-3/cache/npm/registry.npmjs.org/zod/4.4.3/src/v4/locales/ro.ts: No such file or directory (os error 2)",
+        "ms": 1967
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3894
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3092
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10006
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4812
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3941
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10005
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2024
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4841
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10005
+      }
+    ]
+  },
+  {
+    "name": "bounded-use-1",
+    "reload": false,
+    "round": 1,
+    "cold": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 891
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 826
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 971
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 971
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 904
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1060
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1060
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 977
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1145
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1145
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1060
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1223
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1223
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1145
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1284
+      }
+    ],
+    "serial": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 56
+      }
+    ],
+    "warm": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 78
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 77
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 77
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 159
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 159
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 159
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 240
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 240
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 240
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 329
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 330
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 329
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 420
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 421
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 421
+      }
+    ]
+  },
+  {
+    "name": "bounded-use-2",
+    "reload": false,
+    "round": 2,
+    "cold": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 890
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1050
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1051
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 978
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1367
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1367
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1222
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1292
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1293
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1136
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1221
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1220
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1050
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1135
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1137
+      }
+    ],
+    "serial": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 58
+      }
+    ],
+    "warm": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 74
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 74
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 73
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 156
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 157
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 158
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 242
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 334
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 241
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 333
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 241
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 333
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 419
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 420
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 420
+      }
+    ]
+  },
+  {
+    "name": "bounded-use-3",
+    "reload": false,
+    "round": 3,
+    "cold": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1120
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 987
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1066
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1200
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1090
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1157
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1268
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1178
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1229
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1333
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1245
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1300
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1396
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1317
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1367
+      }
+    ],
+    "serial": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 61
+      }
+    ],
+    "warm": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 82
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 81
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 82
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 167
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 165
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 165
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 253
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 253
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 253
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 336
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 336
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 336
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 422
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 423
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 422
+      }
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+{
+  "service": "edge-runtime",
+  "version": "v1.77.4-r0",
+  "upstream_version": "v1.77.4",
+  "revision": 0,
+  "platform": "darwin/arm64",
+  "arch": "arm64",
+  "target": "darwin-arm64",
+  "libc": null,
+  "source_dir": "sources/edge-runtime",
+  "source_ref": "v1.77.4",
+  "source_commit": "d4a4f606a90e8c66864219c9b1d31ef0e3e3f626",
+  "upstream_image": "supabase/edge-runtime:v1.77.4",
+  "upstream_source": null,
+  "upstream_source_repository": "https://github.com/supabase/edge-runtime",
+  "base_image": "scratch",
+  "entrypoint": [
+    "/bin/.edge-runtime-wrapped"
+  ],
+  "cmd": [],
+  "build_backend": "nix",
+  "nix_flake": ".",
+  "nix_attr": "runtime",
+  "nix_system": "aarch64-darwin",
+  "nix_derived_hashes": {
+    "v8_archive_hash": "sha256-VYWg+9WekcHBJWEq49eAAVpc6g/PPaoZDm/j2DKNQLY=",
+    "v8_binding_hash": "sha256-ytcUCd4V1MQkinakmT3rJsdow1RLVWrGqtMjava4BaU=",
+    "cargo_hash": "sha256-CekoQNiONsSzq9a3UcryW3mniIjB3fcVKZdwom+zNzQ="
+  },
+  "nix_release": {
+    "service": "edge-runtime",
+    "version": "v1.77.4",
+    "sourceCommit": "d4a4f606a90e8c66864219c9b1d31ef0e3e3f626",
+    "sourceRepository": "https://github.com/supabase/edge-runtime",
+    "source": {},
+    "hashes": {
+      "v8_archive_hash": "sha256-VYWg+9WekcHBJWEq49eAAVpc6g/PPaoZDm/j2DKNQLY=",
+      "v8_binding_hash": "sha256-ytcUCd4V1MQkinakmT3rJsdow1RLVWrGqtMjava4BaU=",
+      "cargo_hash": "sha256-CekoQNiONsSzq9a3UcryW3mniIjB3fcVKZdwom+zNzQ="
+    }
+  },
+  "nix_runtime": "/nix/store/3wj7q0nq04k36xfycv37w4993hgj0d80-edge-runtime-runtime",
+  "portable": true,
+  "assumed_host_libs": [
+    "/usr/lib/libSystem.B.dylib",
+    "/System/Library/Frameworks"
+  ],
+  "archive": "edge-runtime-v1.77.4-r0-darwin-arm64.tar.zst",
+  "archive_on_build": false,
+  "sbom": "edge-runtime-v1.77.4-r0-darwin-arm64.sbom.spdx.json",
+  "licenses": "share/licenses",
+  "size": {
+    "rootfs_bytes": 169299968,
+    "rootfs_mib": 161.5,
+    "archive_bytes": 41924683,
+    "archive_mib": 40.0
+  },
+  "os_floor": {
+    "kind": "macos",
+    "floor": "14.0",
+    "offender": "bin/.edge-runtime-wrapped",
+    "scanned": 89
+  },
+  "runtime": {
+    "runtime_rss_bytes": 60014592,
+    "runtime_rss_mib": 57.2,
+    "idle_cpu_pct": 0.0,
+    "settle_seconds": 10,
+    "samples": 3
+  }
+}

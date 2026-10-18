@@ -1,0 +1,998 @@
+[
+  {
+    "name": "reload-1",
+    "reload": true,
+    "round": 1,
+    "cold": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3267
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2760
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3265
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 5731
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 5354
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker boot error: failed to bootstrap runtime: failed to create the graph: Failed caching npm package 'openai@7.38.0'.\n    0: failed to unpack `package/internal/data-residency.d.mts.map` into `<repro>/.runs/run-Gyxqy6/reload-1/cache/npm/registry.npmjs.org/openai/7.38.0/internal/data-residency.d.mts.map`: File exists (os error 17)",
+        "ms": 4797
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 8007
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 7819
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10009
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 10204
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker boot error: failed to bootstrap runtime: failed to create the graph: Failed caching npm package 'openai@7.38.0'.\n    0: failed to unpack `package/resources/fine-tuning/jobs/index.d.ts.map` into `<repro>/.runs/run-Gyxqy6/reload-1/cache/npm/registry.npmjs.org/openai/7.38.0/resources/fine-tuning/jobs/index.d.ts.map`: File exists (os error 17)",
+        "ms": 9391
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10009
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10009
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10009
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10009
+      }
+    ],
+    "serial": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2100
+      }
+    ],
+    "warm": [
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker boot error: failed to bootstrap runtime: failed to create the graph: Failed caching npm package 'openai@7.38.0'.\n    0: failed to unpack `package/internal/utils/query.js` into `<repro>/.runs/run-Gyxqy6/reload-1/cache/npm/registry.npmjs.org/openai/7.38.0/internal/utils/query.js`: File exists (os error 17)",
+        "ms": 1364
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 6838
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10009
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10009
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 8807
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10009
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10010
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 10845
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10010
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10009
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2408
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker boot error: failed to bootstrap runtime: failed to create the graph: Failed caching npm package 'openai@7.38.0'.\n    0: failed to unpack `package/resources/beta/agents/sessions/subagents/turns/index.d.mts.map` into `<repro>/.runs/run-Gyxqy6/reload-1/cache/npm/registry.npmjs.org/openai/7.38.0/resources/beta/agents/sessions/subagents/turns/index.d.mts.map`: File exists (os error 17)",
+        "ms": 1657
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10009
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4581
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10009
+      }
+    ]
+  },
+  {
+    "name": "reload-2",
+    "reload": true,
+    "round": 2,
+    "cold": [
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10018
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 11883
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10018
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10018
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 9698
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10018
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10018
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 7711
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10017
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker boot error: failed to bootstrap runtime: Reading <repro>/.runs/run-Gyxqy6/reload-2/cache/npm/registry.npmjs.org/openai/7.38.0/resources/live.d.mts: No such file or directory (os error 2)",
+        "ms": 5164
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 5628
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker boot error: failed to bootstrap runtime: failed to create the graph: Failed caching npm package 'zod@4.4.3'.\n    0: failed to unpack `package/src/v4/classic/tests/assignability.test.ts` into `<repro>/.runs/run-Gyxqy6/reload-2/cache/npm/registry.npmjs.org/zod/4.4.3/src/v4/classic/tests/assignability.test.ts`: File exists (os error 17)",
+        "ms": 4147
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2489
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2983
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2983
+      }
+    ],
+    "serial": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2526
+      }
+    ],
+    "warm": [
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker boot error: failed to bootstrap runtime: failed to create the graph: Failed caching npm package 'openai@7.38.0'.\n    0: failed to unpack `package/_vendor/zod-to-json-schema/parsers/pipeline.mjs.map` into `<repro>/.runs/run-Gyxqy6/reload-2/cache/npm/registry.npmjs.org/openai/7.38.0/_vendor/zod-to-json-schema/parsers/pipeline.mjs.map`: File exists (os error 17)",
+        "ms": 1688
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2372
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker boot error: failed to bootstrap runtime: failed to create the graph: Failed caching npm package 'openai@7.38.0'.\n    0: failed to unpack `package/helpers/browser.d.ts.map` into `<repro>/.runs/run-Gyxqy6/reload-2/cache/npm/registry.npmjs.org/openai/7.38.0/helpers/browser.d.ts.map`: File exists (os error 17)",
+        "ms": 1442
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10006
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4426
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10006
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10006
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 6477
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10006
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10006
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 8529
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10006
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10006
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 10511
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10006
+      }
+    ]
+  },
+  {
+    "name": "reload-3",
+    "reload": true,
+    "round": 3,
+    "cold": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2978
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2978
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2497
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 5553
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 5608
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 5130
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 8009
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker boot error: failed to bootstrap runtime: failed to create the graph: Failed caching npm package 'openai@7.38.0'.\n    0: failed to unpack `package/resources/images.d.mts.map` into `<repro>/.runs/run-Gyxqy6/reload-3/cache/npm/registry.npmjs.org/openai/7.38.0/resources/images.d.mts.map`: File exists (os error 17)",
+        "ms": 7078
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 7744
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 10223
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10007
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker boot error: failed to bootstrap runtime: Reading <repro>/.runs/run-Gyxqy6/reload-3/cache/npm/registry.npmjs.org/openai/7.38.0/resources/beta/responses/input-items.d.ts: No such file or directory (os error 2)",
+        "ms": 9921
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10007
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10007
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10007
+      }
+    ],
+    "serial": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2069
+      }
+    ],
+    "warm": [
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker boot error: failed to bootstrap runtime: failed to create the graph: Failed caching npm package 'openai@7.38.0'.\n    0: failed to unpack `package/resources/beta/agents/sessions/subagents/items.js.map` into `<repro>/.runs/run-Gyxqy6/reload-3/cache/npm/registry.npmjs.org/openai/7.38.0/resources/beta/agents/sessions/subagents/items.js.map`: File exists (os error 17)",
+        "ms": 1686
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10009
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 6707
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10009
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10009
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 8878
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10009
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10009
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 11032
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10009
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker boot error: failed to bootstrap runtime: failed to create the graph: Failed caching npm package 'openai@7.38.0'.\n    0: failed to unpack `package/resources/audio/audio.mjs.map` into `<repro>/.runs/run-Gyxqy6/reload-3/cache/npm/registry.npmjs.org/openai/7.38.0/resources/audio/audio.mjs.map`: File exists (os error 17)",
+        "ms": 1494
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2409
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10009
+      },
+      {
+        "status": 503,
+        "body": "InvalidWorkerCreation: worker did not respond in time",
+        "ms": 10009
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4543
+      }
+    ]
+  },
+  {
+    "name": "use-1",
+    "reload": false,
+    "round": 1,
+    "cold": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3590
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3588
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2918
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3976
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3976
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3334
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4340
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4341
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3687
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4703
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4703
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4016
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 5035
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 5035
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4340
+      }
+    ],
+    "serial": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 239
+      }
+    ],
+    "warm": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 374
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 374
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 374
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 739
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 737
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 735
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1144
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1567
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1144
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1565
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1144
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1567
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1957
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1957
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1957
+      }
+    ]
+  },
+  {
+    "name": "use-2",
+    "reload": false,
+    "round": 2,
+    "cold": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3410
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3408
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2714
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3817
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3813
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3049
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4210
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4210
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3409
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4539
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4539
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3818
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4864
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4866
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4210
+      }
+    ],
+    "serial": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 240
+      }
+    ],
+    "warm": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 374
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 374
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 374
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 799
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 803
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 794
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1200
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1200
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1200
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1616
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1616
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1616
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2014
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2013
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2014
+      }
+    ]
+  },
+  {
+    "name": "use-3",
+    "reload": false,
+    "round": 3,
+    "cold": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3281
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 2634
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3281
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3651
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3002
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3651
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4050
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3321
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4050
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4369
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 3650
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4367
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4712
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4049
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 4712
+      }
+    ],
+    "serial": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 252
+      }
+    ],
+    "warm": [
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 349
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 350
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 349
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 794
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 794
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 795
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1199
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1198
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1199
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1585
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1586
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1586
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1992
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1992
+      },
+      {
+        "status": 200,
+        "body": "ok",
+        "ms": 1992
+      }
+    ]
+  }
+]

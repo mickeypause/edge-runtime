@@ -1,0 +1,97 @@
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+worker boot error: failed to bootstrap runtime: failed to create the graph: Failed caching npm package 'zod@4.4.3'.
+    0: failed to unpack `package/v4/locales/hr.cjs` into `<repro>/evidence/run-v8tfm4/bounded-reload-3/cache/npm/registry.npmjs.org/zod/4.4.3/v4/locales/hr.cjs`: File exists (os error 17)
+worker boot error: failed to bootstrap runtime: failed to create the graph: Failed caching npm package 'zod@4.4.3'.
+    0: failed to unpack `package/v4/locales/hr.cjs` into `<repro>/evidence/run-v8tfm4/bounded-reload-3/cache/npm/registry.npmjs.org/zod/4.4.3/v4/locales/hr.cjs`: File exists (os error 17)
+InvalidWorkerCreation: worker boot error: failed to bootstrap runtime: failed to create the graph: Failed caching npm package 'zod@4.4.3'.
+    0: failed to unpack `package/v4/locales/hr.cjs` into `<repro>/evidence/run-v8tfm4/bounded-reload-3/cache/npm/registry.npmjs.org/zod/4.4.3/v4/locales/hr.cjs`: File exists (os error 17)
+    at async Function.create (ext:user_workers/user_workers.js:156:29)
+    at async Object.handler (file:///var/tmp/sb-compile-.edge-runtime-wrapped/main/index.ts:4:20)
+    at async mapped (ext:runtime/http.js:246:20) {
+  name: [32m"InvalidWorkerCreation"[39m
+}
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+InvalidWorkerCreation: worker did not respond in time
+    at async Function.create (ext:user_workers/user_workers.js:156:29)
+    at async Object.handler (file:///var/tmp/sb-compile-.edge-runtime-wrapped/main/index.ts:4:20)
+    at async mapped (ext:runtime/http.js:246:20) {
+  name: [32m"InvalidWorkerCreation"[39m
+}
+InvalidWorkerCreation: worker did not respond in time
+    at async Function.create (ext:user_workers/user_workers.js:156:29)
+    at async Object.handler (file:///var/tmp/sb-compile-.edge-runtime-wrapped/main/index.ts:4:20)
+    at async mapped (ext:runtime/http.js:246:20) {
+  name: [32m"InvalidWorkerCreation"[39m
+}
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+worker boot error: failed to bootstrap runtime: Reading <repro>/evidence/run-v8tfm4/bounded-reload-3/cache/npm/registry.npmjs.org/zod/4.4.3/src/v4/locales/ro.ts: No such file or directory (os error 2)
+worker boot error: failed to bootstrap runtime: Reading <repro>/evidence/run-v8tfm4/bounded-reload-3/cache/npm/registry.npmjs.org/zod/4.4.3/src/v4/locales/ro.ts: No such file or directory (os error 2)
+InvalidWorkerCreation: worker boot error: failed to bootstrap runtime: Reading <repro>/evidence/run-v8tfm4/bounded-reload-3/cache/npm/registry.npmjs.org/zod/4.4.3/src/v4/locales/ro.ts: No such file or directory (os error 2)
+    at async Function.create (ext:user_workers/user_workers.js:156:29)
+    at async Object.handler (file:///var/tmp/sb-compile-.edge-runtime-wrapped/main/index.ts:4:20)
+    at async mapped (ext:runtime/http.js:246:20) {
+  name: [32m"InvalidWorkerCreation"[39m
+}
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+InvalidWorkerCreation: worker did not respond in time
+    at async Function.create (ext:user_workers/user_workers.js:156:29)
+    at async Object.handler (file:///var/tmp/sb-compile-.edge-runtime-wrapped/main/index.ts:4:20)
+    at async mapped (ext:runtime/http.js:246:20) {
+  name: [32m"InvalidWorkerCreation"[39m
+}
+InvalidWorkerCreation: worker did not respond in time
+    at async Function.create (ext:user_workers/user_workers.js:156:29)
+    at async Object.handler (file:///var/tmp/sb-compile-.edge-runtime-wrapped/main/index.ts:4:20)
+    at async mapped (ext:runtime/http.js:246:20) {
+  name: [32m"InvalidWorkerCreation"[39m
+}
+InvalidWorkerCreation: worker did not respond in time
+    at async Function.create (ext:user_workers/user_workers.js:156:29)
+    at async Object.handler (file:///var/tmp/sb-compile-.edge-runtime-wrapped/main/index.ts:4:20)
+    at async mapped (ext:runtime/http.js:246:20) {
+  name: [32m"InvalidWorkerCreation"[39m
+}

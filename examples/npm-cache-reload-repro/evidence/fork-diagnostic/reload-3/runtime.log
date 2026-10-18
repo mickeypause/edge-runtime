@@ -1,0 +1,151 @@
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+worker boot error: failed to bootstrap runtime: failed to create the graph: Failed caching npm package '@opentelemetry/api@1.9.1'.
+    0: failed to unpack `package/build/esm/diag/consoleLogger.js` into `<repro>/.runs/run-MhYFhR/reload-3/cache/npm/registry.npmjs.org/@opentelemetry/api/1.9.1/build/esm/diag/consoleLogger.js`: File exists (os error 17)
+worker boot error: failed to bootstrap runtime: failed to create the graph: Failed caching npm package '@opentelemetry/api@1.9.1'.
+    0: failed to unpack `package/build/esm/diag/consoleLogger.js` into `<repro>/.runs/run-MhYFhR/reload-3/cache/npm/registry.npmjs.org/@opentelemetry/api/1.9.1/build/esm/diag/consoleLogger.js`: File exists (os error 17)
+InvalidWorkerCreation: worker boot error: failed to bootstrap runtime: failed to create the graph: Failed caching npm package '@opentelemetry/api@1.9.1'.
+    0: failed to unpack `package/build/esm/diag/consoleLogger.js` into `<repro>/.runs/run-MhYFhR/reload-3/cache/npm/registry.npmjs.org/@opentelemetry/api/1.9.1/build/esm/diag/consoleLogger.js`: File exists (os error 17)
+    at async Function.create (ext:user_workers/user_workers.js:156:29)
+    at async Object.handler (file:///var/tmp/sb-compile-.edge-runtime-wrapped/edge-runtime-review/examples/npm-cache-reload-repro/main/index.ts:4:20)
+    at async mapped (ext:runtime/http.js:246:20) {
+  name: [32m"InvalidWorkerCreation"[39m
+}
+worker boot error: failed to bootstrap runtime: Reading <repro>/.runs/run-MhYFhR/reload-3/cache/npm/registry.npmjs.org/openai/7.38.0/_vendor/zod-to-json-schema/parsers/promise.mjs: No such file or directory (os error 2)
+worker boot error: failed to bootstrap runtime: Reading <repro>/.runs/run-MhYFhR/reload-3/cache/npm/registry.npmjs.org/openai/7.38.0/_vendor/zod-to-json-schema/parsers/promise.mjs: No such file or directory (os error 2)
+InvalidWorkerCreation: worker boot error: failed to bootstrap runtime: Reading <repro>/.runs/run-MhYFhR/reload-3/cache/npm/registry.npmjs.org/openai/7.38.0/_vendor/zod-to-json-schema/parsers/promise.mjs: No such file or directory (os error 2)
+    at async Function.create (ext:user_workers/user_workers.js:156:29)
+    at async Object.handler (file:///var/tmp/sb-compile-.edge-runtime-wrapped/edge-runtime-review/examples/npm-cache-reload-repro/main/index.ts:4:20)
+    at async mapped (ext:runtime/http.js:246:20) {
+  name: [32m"InvalidWorkerCreation"[39m
+}
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+InvalidWorkerCreation: worker did not respond in time
+    at async Function.create (ext:user_workers/user_workers.js:156:29)
+    at async Object.handler (file:///var/tmp/sb-compile-.edge-runtime-wrapped/edge-runtime-review/examples/npm-cache-reload-repro/main/index.ts:4:20)
+    at async mapped (ext:runtime/http.js:246:20) {
+  name: [32m"InvalidWorkerCreation"[39m
+}
+InvalidWorkerCreation: worker did not respond in time
+    at async Function.create (ext:user_workers/user_workers.js:156:29)
+    at async Object.handler (file:///var/tmp/sb-compile-.edge-runtime-wrapped/edge-runtime-review/examples/npm-cache-reload-repro/main/index.ts:4:20)
+    at async mapped (ext:runtime/http.js:246:20) {
+  name: [32m"InvalidWorkerCreation"[39m
+}
+InvalidWorkerCreation: worker did not respond in time
+    at async Function.create (ext:user_workers/user_workers.js:156:29)
+    at async Object.handler (file:///var/tmp/sb-compile-.edge-runtime-wrapped/edge-runtime-review/examples/npm-cache-reload-repro/main/index.ts:4:20)
+    at async mapped (ext:runtime/http.js:246:20) {
+  name: [32m"InvalidWorkerCreation"[39m
+}
+InvalidWorkerCreation: worker did not respond in time
+    at async Function.create (ext:user_workers/user_workers.js:156:29)
+    at async Object.handler (file:///var/tmp/sb-compile-.edge-runtime-wrapped/edge-runtime-review/examples/npm-cache-reload-repro/main/index.ts:4:20)
+    at async mapped (ext:runtime/http.js:246:20) {
+  name: [32m"InvalidWorkerCreation"[39m
+}
+InvalidWorkerCreation: worker did not respond in time
+    at async Function.create (ext:user_workers/user_workers.js:156:29)
+    at async Object.handler (file:///var/tmp/sb-compile-.edge-runtime-wrapped/edge-runtime-review/examples/npm-cache-reload-repro/main/index.ts:4:20)
+    at async mapped (ext:runtime/http.js:246:20) {
+  name: [32m"InvalidWorkerCreation"[39m
+}
+InvalidWorkerCreation: worker did not respond in time
+    at async Function.create (ext:user_workers/user_workers.js:156:29)
+    at async Object.handler (file:///var/tmp/sb-compile-.edge-runtime-wrapped/edge-runtime-review/examples/npm-cache-reload-repro/main/index.ts:4:20)
+    at async mapped (ext:runtime/http.js:246:20) {
+  name: [32m"InvalidWorkerCreation"[39m
+}
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+worker boot error: failed to bootstrap runtime: failed to create the graph: Failed caching npm package '@opentelemetry/api@1.9.1'.
+    0: failed to unpack `package/build/esm/baggage/context-helpers.d.ts` into `<repro>/.runs/run-MhYFhR/reload-3/cache/npm/registry.npmjs.org/@opentelemetry/api/1.9.1/build/esm/baggage/context-helpers.d.ts`: File exists (os error 17)
+worker boot error: failed to bootstrap runtime: failed to create the graph: Failed caching npm package '@opentelemetry/api@1.9.1'.
+    0: failed to unpack `package/build/esm/baggage/context-helpers.d.ts` into `<repro>/.runs/run-MhYFhR/reload-3/cache/npm/registry.npmjs.org/@opentelemetry/api/1.9.1/build/esm/baggage/context-helpers.d.ts`: File exists (os error 17)
+InvalidWorkerCreation: worker boot error: failed to bootstrap runtime: failed to create the graph: Failed caching npm package '@opentelemetry/api@1.9.1'.
+    0: failed to unpack `package/build/esm/baggage/context-helpers.d.ts` into `<repro>/.runs/run-MhYFhR/reload-3/cache/npm/registry.npmjs.org/@opentelemetry/api/1.9.1/build/esm/baggage/context-helpers.d.ts`: File exists (os error 17)
+    at async Function.create (ext:user_workers/user_workers.js:156:29)
+    at async Object.handler (file:///var/tmp/sb-compile-.edge-runtime-wrapped/edge-runtime-review/examples/npm-cache-reload-repro/main/index.ts:4:20)
+    at async mapped (ext:runtime/http.js:246:20) {
+  name: [32m"InvalidWorkerCreation"[39m
+}
+worker boot error: failed to bootstrap runtime: failed to create the graph: Failed caching npm package 'openai@7.38.0'.
+    0: failed to unpack `package/resources/beta/responses.js` into `<repro>/.runs/run-MhYFhR/reload-3/cache/npm/registry.npmjs.org/openai/7.38.0/resources/beta/responses.js`: File exists (os error 17)
+worker boot error: failed to bootstrap runtime: failed to create the graph: Failed caching npm package 'openai@7.38.0'.
+    0: failed to unpack `package/resources/beta/responses.js` into `<repro>/.runs/run-MhYFhR/reload-3/cache/npm/registry.npmjs.org/openai/7.38.0/resources/beta/responses.js`: File exists (os error 17)
+InvalidWorkerCreation: worker boot error: failed to bootstrap runtime: failed to create the graph: Failed caching npm package 'openai@7.38.0'.
+    0: failed to unpack `package/resources/beta/responses.js` into `<repro>/.runs/run-MhYFhR/reload-3/cache/npm/registry.npmjs.org/openai/7.38.0/resources/beta/responses.js`: File exists (os error 17)
+    at async Function.create (ext:user_workers/user_workers.js:156:29)
+    at async Object.handler (file:///var/tmp/sb-compile-.edge-runtime-wrapped/edge-runtime-review/examples/npm-cache-reload-repro/main/index.ts:4:20)
+    at async mapped (ext:runtime/http.js:246:20) {
+  name: [32m"InvalidWorkerCreation"[39m
+}
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
+InvalidWorkerCreation: worker did not respond in time
+    at async Function.create (ext:user_workers/user_workers.js:156:29)
+    at async Object.handler (file:///var/tmp/sb-compile-.edge-runtime-wrapped/edge-runtime-review/examples/npm-cache-reload-repro/main/index.ts:4:20)
+    at async mapped (ext:runtime/http.js:246:20) {
+  name: [32m"InvalidWorkerCreation"[39m
+}
+InvalidWorkerCreation: worker did not respond in time
+    at async Function.create (ext:user_workers/user_workers.js:156:29)
+    at async Object.handler (file:///var/tmp/sb-compile-.edge-runtime-wrapped/edge-runtime-review/examples/npm-cache-reload-repro/main/index.ts:4:20)
+    at async mapped (ext:runtime/http.js:246:20) {
+  name: [32m"InvalidWorkerCreation"[39m
+}
+InvalidWorkerCreation: worker did not respond in time
+    at async Function.create (ext:user_workers/user_workers.js:156:29)
+    at async Object.handler (file:///var/tmp/sb-compile-.edge-runtime-wrapped/edge-runtime-review/examples/npm-cache-reload-repro/main/index.ts:4:20)
+    at async mapped (ext:runtime/http.js:246:20) {
+  name: [32m"InvalidWorkerCreation"[39m
+}
+InvalidWorkerCreation: worker did not respond in time
+    at async Function.create (ext:user_workers/user_workers.js:156:29)
+    at async Object.handler (file:///var/tmp/sb-compile-.edge-runtime-wrapped/edge-runtime-review/examples/npm-cache-reload-repro/main/index.ts:4:20)
+    at async mapped (ext:runtime/http.js:246:20) {
+  name: [32m"InvalidWorkerCreation"[39m
+}
+InvalidWorkerCreation: worker did not respond in time
+    at async Function.create (ext:user_workers/user_workers.js:156:29)
+    at async Object.handler (file:///var/tmp/sb-compile-.edge-runtime-wrapped/edge-runtime-review/examples/npm-cache-reload-repro/main/index.ts:4:20)
+    at async mapped (ext:runtime/http.js:246:20) {
+  name: [32m"InvalidWorkerCreation"[39m
+}
+InvalidWorkerCreation: worker did not respond in time
+    at async Function.create (ext:user_workers/user_workers.js:156:29)
+    at async Object.handler (file:///var/tmp/sb-compile-.edge-runtime-wrapped/edge-runtime-review/examples/npm-cache-reload-repro/main/index.ts:4:20)
+    at async mapped (ext:runtime/http.js:246:20) {
+  name: [32m"InvalidWorkerCreation"[39m
+}
+InvalidWorkerCreation: worker did not respond in time
+    at async Function.create (ext:user_workers/user_workers.js:156:29)
+    at async Object.handler (file:///var/tmp/sb-compile-.edge-runtime-wrapped/edge-runtime-review/examples/npm-cache-reload-repro/main/index.ts:4:20)
+    at async mapped (ext:runtime/http.js:246:20) {
+  name: [32m"InvalidWorkerCreation"[39m
+}
+InvalidWorkerCreation: worker did not respond in time
+    at async Function.create (ext:user_workers/user_workers.js:156:29)
+    at async Object.handler (file:///var/tmp/sb-compile-.edge-runtime-wrapped/edge-runtime-review/examples/npm-cache-reload-repro/main/index.ts:4:20)
+    at async mapped (ext:runtime/http.js:246:20) {
+  name: [32m"InvalidWorkerCreation"[39m
+}
+CPU timer: not enabled (need Linux)
+CPU timer: not enabled (need Linux)
